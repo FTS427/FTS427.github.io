@@ -1,3 +1,5 @@
+<meta name="description" content="ZH-Server">
+<meta name="keywords" content="ZH-Server,Minecraft,Server,服务器,Bedrock,基岩版">
 <div align="center">
     <img width="175" src="/photos/ZH-Server.png">
 </div>
