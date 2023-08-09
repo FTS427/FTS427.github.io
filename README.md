@@ -37,7 +37,7 @@
 
 出生点展示
 
-![](/photos/swanpoint.jpeg)
+![swanpoint](/photos/swanpoint.jpeg)
 
 > 非常感谢建筑师“Dorasimon2112”建立的小亭子
 
@@ -61,5 +61,5 @@
 
 （本群禁止内容：**如何作弊、攻击服务器、盗版盗号、贿赂、瑟瑟、贴小广告**）
 
-[服务器插件信息](/plug.md)
-[服务器材质信息](/resouce.md)
+[服务器插件信息](/plug.md "服务器插件信息")
+[服务器材质信息](/resouce.md "服务器材质信息")
