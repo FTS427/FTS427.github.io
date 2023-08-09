@@ -7,8 +7,7 @@
 
 服务器宣传片！~~（做得很棒）~~
 
-[![第一版](https://img.shields.io/badge/第一版-FFC0CB?style=for-the-badge&logo=bilibili&logoColor=white)
-](https://www.bilibili.com/video/BV1Ah4y1V7Ws/?spm_id_from=333.999.0.0)
+[![第一版](https://img.shields.io/badge/第一版-FFC0CB?style=for-the-badge&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1Ah4y1V7Ws/?spm_id_from=333.999.0.0)
 [![第二版](https://img.shields.io/badge/第二版-FFC0CB?style=for-the-badge&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1fg4y1A7PP/?spm_id_from=333.788.recommend_more_video.-1)
 
 [![Discord](https://img.shields.io/badge/Discord-4B0082?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/S6SDhrad)
