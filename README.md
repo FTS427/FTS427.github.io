@@ -14,26 +14,37 @@
 [![QQ](https://img.shields.io/badge/QQ-836052388-4169E1?style=for-the-badge&logoColor=white)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=89oGlqOoovJVsXx_9cSg3ri8GNXr_rCs&authKey=SxgvNWIiXBx89Lb%2FvXyi2wQtFpzJetKtY44mAe3RfB2PHcdIzYeoP7C3HBjaI3gM&noverify=0&group_code=836052388)
 ![邮箱](https://img.shields.io/badge/EMAIL-fts427%40outlook.com-4169E1?style=for-the-badge&logoColor=white)
 
+## 何为ZH-Server?
+
+厌烦了在游戏里充钱？对加了一堆模组的逆天玩法感到不适？对动不动就把人踢出去的管理/腐竹感到厌恶？来吧，朋友！欢迎来到ZH-Server服务器！
+
+ZH-Server是一个公益的纯生存服务器，也是一个以玩家为中心、听取玩家建议的服务器，我们尊重每一位玩家对服务器的建议
+
+“ZH”是什么？“ZH”是“Zero Harm”（零伤）的缩写，我们希望每一位服务器的成员可以做到互帮互助，玩家之间零伤
+
 ## 服务器详情信息
 
 - 游戏模式：生存
 - 难度：困难
 - 启用白名单：否
+- 启用正版验证：否
 - 启用作弊：否
 - 启用命令方块：否
 - 获得成就：是
 - 版本：1.20.12.01
 - 种子：-4749253937197506002
+- 服务器IP：zhserver.uk.to
+- 端口号：19132
 
 客户端需求：Minecraft基岩版
 
 平台要求：Minecraft基岩版支持的所有平台
 
-服务器更新频率：非重大更新就不更新
+服务器更新频率：非常缓慢，根据服务器内玩家的需求更新
 
 本服务器为**公益服**，全部内容**免费**！（找不到充值入口！）
 
-## 服务器内照片
+## 服务器靓照
 
 出生点展示
 
@@ -47,11 +58,11 @@
 
 腐竹：Quantum427 ZTT2008917
 
-管理：Quantum427 ZTT2008917
+管理：ZTT2008917
 
 ## 本服保证绝不会出现以下内容：
 
-**中途跑路、莫名删档、滥用管理权限、一切作弊手段、随意踢人、充值、圈地、故意伤害玩家**
+**中途跑路、莫名删档、滥用管理权限、一切作弊手段、随意踢人、充值、恶意圈地、故意伤害玩家**
 
 > 如果服务器出现以上内容请尽快发送邮件至 FTS427@outlook.com或联系本服QQ群群主！
 
