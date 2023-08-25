@@ -1,5 +1,5 @@
 <meta name="description" content="ZH-Server">
-<meta name="keywords" content="ZH-Server,Minecraft,Server,服务器,Bedrock,基岩版">
+<meta name="keywords" content="ZH-Server,Minecraft,Server,服务器,Bedrock,基岩版,FTS427">
 <div align="center">
     <img width="175" src="/photos/ZH-Server.png">
 </div>
@@ -16,11 +16,11 @@
 
 ## 何为ZH-Server?
 
-厌烦了在游戏里充钱？对加了一堆模组的逆天玩法感到不适？对动不动就把人踢出去的管理/腐竹感到厌恶？来吧，朋友！欢迎来到ZH-Server服务器！
+你是否厌烦了在游戏里充钱？是否对加了一堆模组的逆天玩法感到不适？是否对动不动就把人踢出去的管理/腐竹感到厌恶？来吧，朋友！欢迎来到ZH-Server服务器！
 
 ZH-Server是一个公益的纯生存服务器，也是一个以玩家为中心、听取玩家建议的服务器，我们尊重每一位玩家对服务器的建议
 
-“ZH”是什么？“ZH”是“Zero Harm”（零伤）的缩写，我们希望每一位服务器的成员可以做到互帮互助，玩家之间零伤
+“ZH”是什么？“ZH”是“Zero Harm”（零伤害）的缩写，我们希望每一位服务器的成员可以做到互帮互助、玩家之间零伤害、零冲突
 
 ## 服务器详情信息
 
@@ -74,3 +74,5 @@ ZH-Server是一个公益的纯生存服务器，也是一个以玩家为中心�
 
 [服务器插件信息](/plug.md "服务器插件信息")
 [服务器材质信息](/resouce.md "服务器材质信息")
+
+想要了解更多？电邮FTS427@outlook.com！
