@@ -31,7 +31,7 @@ ZH-Server是一个公益的纯生存服务器，也是一个以玩家为中心�
 - 启用作弊：否
 - 启用命令方块：否
 - 获得成就：是
-- 版本：1.20.12.01
+- 版本：1.20.31.01
 - 种子：-4749253937197506002
 - 服务器IP：zhserver.uk.to
 - 端口号：19132
@@ -51,6 +51,16 @@ ZH-Server是一个公益的纯生存服务器，也是一个以玩家为中心�
 ![swanpoint](/photos/swanpoint.jpeg)
 
 > 非常感谢建筑师“Dorasimon2112”建立的小亭子
+
+服务器其他地点展示
+
+![forest](/photos/forest.png)
+
+![someplace](/photos/01.png)
+
+![underground](/photos/underground.png)
+
+> 十分感谢摄影师“ReturnZeroGirl”的摄影作品😊
 
 ## 腐竹&管理名单
 
