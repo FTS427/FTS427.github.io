@@ -2,7 +2,7 @@
 <meta name="keywords" content="ZH-Server,Minecraft,Server,服务器,Bedrock,基岩版,FTS427">
 <div align="center">
     <img width="175" src="/photos/ZH-Server.png">
-    <img src="/photos/title.png">
+    <img width="175" src="/photos/title.png">
 </div>
 <h1 align="center">ZH-Server服务器——保持原生的基岩版公益生存服务器</h1>
 
@@ -72,10 +72,6 @@ ZH-Server是一个公益的纯生存服务器，也是一个以玩家为中心�
 > 肝帝“clammymint21946”的海下工程
 
 ## 🧐腐竹&管理名单
-=======
-
-
-## 腐竹&管理名单
 
 > 以下名称均为游戏内名称
 
