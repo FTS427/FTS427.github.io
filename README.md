@@ -1,8 +1,8 @@
 <meta name="description" content="ZH-Server">
 <meta name="keywords" content="ZH-Server,Minecraft,Server,服务器,Bedrock,基岩版,FTS427">
 <div align="center">
-    <img width="175" src="/photos/ZH-Server.png">
-    <img width="175" src="/photos/title.png">
+    <img width="125" src="/photos/ZH-Server.png">
+    <img width="300" src="/photos/title.png">
 </div>
 <h1 align="center">ZH-Server服务器——保持原生的基岩版公益生存服务器</h1>
 
