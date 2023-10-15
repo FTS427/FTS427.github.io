@@ -2,6 +2,7 @@
 <meta name="keywords" content="ZH-Server,Minecraft,Server,服务器,Bedrock,基岩版,FTS427">
 <div align="center">
     <img width="175" src="/photos/ZH-Server.png">
+    <img src="/photos/title.png">
 </div>
 <h1 align="center">ZH-Server服务器——保持原生的基岩版公益生存服务器</h1>
 
@@ -44,15 +45,15 @@ ZH-Server是一个公益的纯生存服务器，也是一个以玩家为中心�
 
 本服务器为**公益服**，全部内容**免费**！（找不到充值入口！）
 
-## 服务器靓照
+## 🎞服务器靓照
 
-出生点展示
+🧭出生点展示
 
 ![swanpoint](/photos/swanpoint.jpeg)
 
 > 非常感谢建筑师“Dorasimon2112”建立的小亭子
 
-服务器其他地点展示
+🗺服务器其他地点展示
 
 ![forest](/photos/forest.png)
 
@@ -62,7 +63,15 @@ ZH-Server是一个公益的纯生存服务器，也是一个以玩家为中心�
 
 > 十分感谢摄影师“ReturnZeroGirl”的摄影作品😊
 
-## 腐竹&管理名单
+🏕玩家区域展示
+
+![sea1](/photos/sea1.jpg)
+
+![sea2](/photos/sea2.jpg)
+
+> 肝帝“clammymint21946”的海下工程
+
+## 🧐腐竹&管理名单
 
 > 以下名称均为游戏内名称
 
@@ -78,11 +87,10 @@ ZH-Server是一个公益的纯生存服务器，也是一个以玩家为中心�
 
 ## 其他信息
 
-本服QQ群：**836052388** 欢迎大家进群讨论！
+本服QQ群：**836052388** 欢迎大家进群！
 
-（本群禁止内容：**如何作弊、攻击服务器、盗版盗号、贿赂、瑟瑟、贴小广告**）
+（🚫本群禁止内容：**如何作弊、攻击服务器、盗版盗号、贿赂、瑟瑟、贴小广告**）
 
-[服务器插件信息](/plug.md "服务器插件信息")
-[服务器材质信息](/resouce.md "服务器材质信息")
+🤔想要了解更多？电邮📩FTS427@outlook.com！
 
-想要了解更多？电邮FTS427@outlook.com！
+> 本页为开源项目，有问题和建议可在本项目仓库提交Issues和PR [仓库📦](https://github.com/FTS427/FTS427.github.io)
