@@ -1,3 +1,4 @@
 site_name: Huang FTS427's Blog
 theme:
   name: material
+  locale: zh
