@@ -16,9 +16,5 @@
 
 以及LL自带的一些插件
 
-<<<<<<< HEAD:plug.md
-[返回主页](/README.md "点我返回主页 QwQ")
-=======
 在此感谢以上所有项目的贡献者！
 
->>>>>>> neo:docs/ZH-Server/plug.md
