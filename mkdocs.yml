@@ -1,7 +1,32 @@
 site_name: Huang FTS427's Blog
+repo_url: https://github.com/FTS427/FTS427.github.io
+repo_name: FTS427/FTS427.github.io
+edit_uri: edit/main/docs/
 theme:
   name: material
-  locale: zh
+  language: zh
+  features:
+    - content.action.edit
+  icon: 
+    repo: fontawesome/brands/github
+    edit: material/pencil 
+    view: material/eye
+  palette:
+    # Light mode
+    - scheme: default
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Dark mode
+    # Dark mode
+    - scheme: slate
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-4
+        name: Light mode
+
 markdown_extensions:
   - admonition
   - codehilite:
