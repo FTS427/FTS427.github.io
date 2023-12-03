@@ -1,7 +1,8 @@
-site_name: Huang FTS427's Blog
+site_name: Huang FTS427's Website
 repo_url: https://github.com/FTS427/FTS427.github.io
 repo_name: FTS427/FTS427.github.io
 edit_uri: edit/main/docs/
+copyright: Copyright &copy; 2022 - 2023 Huang FTS427
 theme:
   name: material
   language: zh
@@ -9,6 +10,10 @@ theme:
     - content.action.edit
     - search.suggest
     - search.highlight
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - header.autohide
+    - navigation.footer
   icon: 
     repo: fontawesome/brands/git-alt
     edit: material/pencil 
@@ -19,16 +24,19 @@ theme:
       primary: blue
       accent: light blue
       toggle:
-        icon: material/brightness-7
+        icon: material/toggle-switch
         name: Dark mode
     # Dark mode
     - scheme: slate
-      primary: blue
-      accent: light blue
+      primary: indigo
+      accent: blue
       toggle:
-        icon: material/brightness-4
+        icon: material/toggle-switch-off-outline
         name: Light mode
-
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/FTS427
 plugins: 
   - search
   - blog
