@@ -7,8 +7,10 @@ theme:
   language: zh
   features:
     - content.action.edit
+    - search.suggest
+    - search.highlight
   icon: 
-    repo: fontawesome/brands/github
+    repo: fontawesome/brands/git-alt
     edit: material/pencil 
     view: material/eye
   palette:
@@ -26,6 +28,10 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Light mode
+
+plugins: 
+  - search
+  - blog
 
 markdown_extensions:
   - admonition
