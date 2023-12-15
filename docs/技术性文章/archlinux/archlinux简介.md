@@ -3,6 +3,6 @@ date:
   - created: 2023-12-15
   - updated: 2023-12-15
 categories:
-  - mkdocs
+  - archlinux
 ---
-# MKdocs搭建文档型网站
+# Arch Linux 简介
