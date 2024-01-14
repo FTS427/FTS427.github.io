@@ -2,7 +2,7 @@ site_name: Huang FTS427's Website
 repo_url: https://github.com/FTS427/FTS427.github.io
 repo_name: FTS427/FTS427.github.io
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2022 - 2023 Huang FTS427
+copyright: Copyright &copy; 2022 - 2024 Huang FTS427
 theme:
   name: material
   language: zh
