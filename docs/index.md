@@ -10,7 +10,7 @@
 
 本站全部开源，使用MIT开源协议
 
-```
+```text
 MIT License
 
 Copyright (c) 2023 Huang FTS427
