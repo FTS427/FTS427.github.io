@@ -1,7 +1,7 @@
 ---
 date: 
   - created: 2023-9-31
-  - updated: 2023-12-15
+  - updated: 2024-02-01
 categories:
   - minecraft server
 ---
@@ -11,11 +11,6 @@ categories:
 </div>
 
 # ZH-Server服务器——保持原生的基岩版公益生存服务器
-
-服务器宣传片！~~（做得很棒）~~
-
-[![第一版](https://img.shields.io/badge/第一版-FFC0CB?style=for-the-badge&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1Ah4y1V7Ws/?spm_id_from=333.999.0.0)
-[![第二版](https://img.shields.io/badge/第二版-FFC0CB?style=for-the-badge&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1fg4y1A7PP/?spm_id_from=333.788.recommend_more_video.-1)
 
 [![Discord](https://img.shields.io/badge/Discord-4B0082?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/S6SDhrad)
 [![QQ](https://img.shields.io/badge/QQ-836052388-4169E1?style=for-the-badge&logoColor=white)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=89oGlqOoovJVsXx_9cSg3ri8GNXr_rCs&authKey=SxgvNWIiXBx89Lb%2FvXyi2wQtFpzJetKtY44mAe3RfB2PHcdIzYeoP7C3HBjaI3gM&noverify=0&group_code=836052388)
@@ -39,15 +34,11 @@ ZH-Server是一个公益的纯生存服务器，也是一个以玩家为中心�
 - 启用命令方块：否
 - 获得成就：是
 - 版本：1.20.51.01
-- 种子：-4749253937197506002
-- 服务器IP：zhserver.uk.to
+- 种子：-
+- 服务器IP：
 - 端口号：19132
 
 客户端需求：Minecraft基岩版
-
-平台要求：Minecraft基岩版支持的所有平台
-
-服务器更新频率：非常缓慢，根据服务器内玩家的需求更新
 
 本服务器为公益服，全部内容免费！（找不到充值入口！）
 
@@ -98,3 +89,4 @@ QQ群：**836052388** 欢迎大家进群！
 （🚫本群禁止内容：**如何作弊、攻击服务器、盗版盗号、贿赂、瑟瑟、贴小广告**）
 
 🤔想要了解更多？电邮📩<FTS427@outlook.com>！
+
