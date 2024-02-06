@@ -2,9 +2,9 @@
 
 这里是 Huang FTS427 的小站，这里记录了我的Minecraft服务器ZH-Server，和我的一些技术性文档以及我的一些其他文章
 
-如果您发现这里有些问题，可以向Issues中提出质疑，欢迎您的质疑
+如果您发现这里有些问题，可以向Issues中提出质疑或交PR，欢迎您的质疑
 
-（感觉这个小站可以点一个star嘛，感谢）
+（感觉这个小站不错可以点一个star嘛，感谢）
 
 > 本站使用开源项目[`mkdocs-material`]("https://github.com/squidfunk/mkdocs-material")搭建，十分感谢[`mkdocs-material`]("https://github.com/squidfunk/mkdocs-material")项目的所有贡献者！
 
