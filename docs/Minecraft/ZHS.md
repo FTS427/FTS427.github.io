@@ -40,7 +40,7 @@ ZH-Server是一个公益的纯生存服务器，也是一个以玩家为中心�
 本服务器为公益服，无收费内容
 
 !!! 注意
-    进入服务器前建议您阅读 [*游戏环境基础原则*](\docs\Minecraft\gaming_env.md) 和 [*管理员基础原则*](\docs\Minecraft\op_rules.md) ，避免给他人和自己造成不必要的麻烦。
+    进入服务器前建议您阅读 [*游戏环境基础原则*](\docs\Minecraft\gaming_env.md) 和 [*管理员基础原则*](\docs\Minecraft\op_rules) ，避免给他人和自己造成不必要的麻烦。
 
 ## 🎞服务器靓照
 
@@ -69,6 +69,3 @@ QQ群：**836052388** 欢迎大家进群！
 ## ZHS-I 已存档
 
 [点我下载](https://pan.huang1111.cn/s/3wkdCm)
-
-
-[def]: \docs\Minecraft\op_rules.md
