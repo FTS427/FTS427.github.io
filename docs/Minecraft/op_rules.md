@@ -18,8 +18,8 @@ Quantum427，ZTT2008917
 - 调整 游戏/插件 规则：true （需要向**所有玩家**通知）
 - 通知全体玩家：true （需要说明情况）
 - 赋予他人OP权限：false
-- 封禁玩家：false（当出现 [*游戏环境基础原则*](\docs\Minecraft\gaming_env.md) 描述的情况时，可以为`true`）
-- 踢出玩家：false（当出现 [*游戏环境基础原则*](\docs\Minecraft\gaming_env.md) 描述的情况时，可以为`true`）
+- 封禁玩家：false（当出现 *游戏环境基础原则* 中描述的情况时，可以为`true`）
+- 踢出玩家：false（当出现 *游戏环境基础原则* 中描述的情况时，可以为`true`）
 
 ## 我怎样加入OP列表？
 
