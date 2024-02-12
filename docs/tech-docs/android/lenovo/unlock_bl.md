@@ -24,12 +24,8 @@ MTK-Client是一个利用联发科的芯片~~漏洞~~特性进行对设备操控
 
 Archlinux用户可以在AUR上找到ta，然后可以用AUR助手进行安装，当然您也可以用别的办法安装
 
-yay
-```zsh
-yay -S mtkclient
-```
-
 paru
+
 ```zsh
 paru -S mtkclient
 ```
@@ -51,4 +47,3 @@ sudo mtk e metadata,userdata,md_udc
 ```zsh
 sudo mtk 
 ```
-

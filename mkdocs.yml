@@ -37,6 +37,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/FTS427
+
 plugins: 
   - search
   - blog
