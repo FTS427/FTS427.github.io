@@ -9,7 +9,9 @@
 [![QQ](https://img.shields.io/badge/QQ-836052388-4169E1?style=for-the-badge&logoColor=white)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=89oGlqOoovJVsXx_9cSg3ri8GNXr_rCs&authKey=SxgvNWIiXBx89Lb%2FvXyi2wQtFpzJetKtY44mAe3RfB2PHcdIzYeoP7C3HBjaI3gM&noverify=0&group_code=836052388)
 ![邮箱](https://img.shields.io/badge/EMAIL-fts427%40outlook.com-4169E1?style=for-the-badge&logoColor=white)
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="195px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=122.51.18.189&port=19132&dark=true"></iframe>
+## 服务器当前状态
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="180px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=122.51.18.189&port=19132&dark=true"></iframe>
 
 ## 何为ZH-Server?
 
@@ -17,7 +19,7 @@
 
 ZH-Server是一个公益的纯生存服务器，也是一个以玩家为中心、听取玩家建议的服务器，我们尊重每一位玩家对服务器的建议，并尽力建设一个更美丽的游戏环境。
 
-“ZH”是什么？
+## “ZH”代表什么？
 
 “ZH”是“Zero Harm”（零伤害）的缩写，我们希望每一位服务器的成员可以做到互帮互助、玩家之间零伤害、零冲突。
 
