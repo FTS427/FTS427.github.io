@@ -9,6 +9,8 @@
 [![QQ](https://img.shields.io/badge/QQ-836052388-4169E1?style=for-the-badge&logoColor=white)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=89oGlqOoovJVsXx_9cSg3ri8GNXr_rCs&authKey=SxgvNWIiXBx89Lb%2FvXyi2wQtFpzJetKtY44mAe3RfB2PHcdIzYeoP7C3HBjaI3gM&noverify=0&group_code=836052388)
 ![邮箱](https://img.shields.io/badge/EMAIL-fts427%40outlook.com-4169E1?style=for-the-badge&logoColor=white)
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="195px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=122.51.18.189&port=19132&dark=true"></iframe>
+
 ## 何为ZH-Server?
 
 你是否厌烦了在游戏里充钱？是否对加了一堆模组的逆天玩法感到不适？是否对动不动就把人踢出去的管理/腐竹感到厌恶？来吧，朋友！欢迎来到ZH-Server服务器！
