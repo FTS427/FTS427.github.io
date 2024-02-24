@@ -6,8 +6,6 @@
 
 （感觉这个小站不错可以点一个star嘛，感谢）
 
-> 本站使用开源项目[`mkdocs-material`]("https://github.com/squidfunk/mkdocs-material")搭建，十分感谢[`mkdocs-material`]("https://github.com/squidfunk/mkdocs-material")项目的所有贡献者！
-
 本站使用MIT开源协议
 
 ```text
