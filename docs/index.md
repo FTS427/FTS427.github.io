@@ -6,8 +6,6 @@
 
 （感觉这个小站不错可以点一个 `star` 吗，感谢）
 
-> 本站使用开源项目 [`mkdocs-material`]("https://github.com/squidfunk/mkdocs-material") 搭建，十分感谢 [`mkdocs-material`]("https://github.com/squidfunk/mkdocs-material") 项目的所有贡献者！
-
 本站使用MIT开源协议
 
 ```text
@@ -33,3 +31,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+[感谢列表](.\thx.md)
