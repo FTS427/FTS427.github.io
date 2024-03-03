@@ -4,15 +4,15 @@
 
 你可以叫我 `FTS427` 或 `Huang FTS427`
 
-为什么这样叫？这些字符在某种情况下可以呈现出我的真名，当然，"Huang" 是我的姓，这一眼就看出来了
+为什么这样叫？这些字符在某种情况下可以呈现出我的真名，当然，"Huang" 是我的姓，这一眼就可以看出来
 
 ## 喜好
 
-没有喜欢吃的或喝的，过着很简单的生活
+没有喜欢吃的或喝的，喜欢过着很简单的生活
 
 当然，也有喜欢的东西：
 
-我爱开源社区，ta为每个人都提供便利；我也喜欢研究 命令行 这一类TUI程序，ta让我深入思考
+我爱开源社区，ta为每个人都提供便利；我喜欢研究 `TUI` 和 `CLI` 程序，这让我深入思考
 
 我平时也打游戏，不过不会玩太长时间，很少玩多人游戏
 
@@ -26,36 +26,58 @@ Minecraft Bedrock, Minecraft Java, Undertale, SoulKnight, BlueArchive(国际服)
 
 ### 计算机
 
-Arch Linux + i3wm + Alacritty
+OS: Arch Linux 6.7.7-arch1-1
 
-CPU: Intel Core 2 Duo （没错，就是这么垃圾的CPU，因为穷）
+DE: i3wm
+
+CPU: Intel Core 2 Duo E7500（没错，就是这么垃圾的CPU，我也没办法）
 
 Ram: 4GB Samsung
 
-Rom: 512GB WD
+Swap: 30GB
 
-### 移动端
+Disk: 512GB WD
 
-Dot OS 5.2 (Android 11, GSI) + Magisk + LSPosed
+Display: AOC 1920 x 1080
 
-Lenovo TB-X306FC_PRC 
+Dell Optiplex 780
+
+### 移动设备
+
+OS: Dot OS 5.2 (Android 11, GSI)
+
+Magisk 27.0 + LSPosed 1.9.2
+
+CPU: mt6765
+
+Ram: 3.8GB
+
+Swap: 3GB
+
+Lenovo TB-X306FC_PRC
 
 ## 我的项目
 
-MCT (MathCentralTool) C++
+[MathCentralTool](https://github.com/QuantumLS-Studio/MathCentralTool) written in C++
 
-ECPPH C++
+[ECPPH](https://github.com/QuantumLS-Studio/ECPPH) written in C++
 
-MinecraftLauncher-CLI Rust
-
-LLBDS_Packer GitAction 
+[llbds_packer](https://github.com/FTS427/llbds_packer) GitAction
 
 ## 梦想
 
 不知道为什么，我好像没有梦想...
 
-但我在朝着一个模糊的光亮奔跑
+但我仍在朝着一个模糊的光亮奔跑...
 
 ## 职位
 
-马上中考的学生 & ZH-Server的不称职腐竹（ & WonderLab.Override综合评价员（ & 夏莱老师（ & 一个友善的朋友
+马上中考的初三学生 &
+
+`ZH-Server` 的~~不称职~~腐竹（ &
+
+`WonderLab.Override` 综合评价员（ &
+
+~~夏莱老师~~ &
+
+一个友善的朋友
