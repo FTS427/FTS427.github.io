@@ -74,7 +74,7 @@ Lenovo TB-X306FC_PRC
 
 马上中考的初三学生 &
 
-`ZH-Server` 的~~不称职~~腐竹（ &
+`ZH-Server` 的 ~~不称职~~ 腐竹（ &
 
 `WonderLab.Override` 综合评价员（ &
 
