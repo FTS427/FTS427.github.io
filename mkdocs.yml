@@ -42,11 +42,12 @@ plugins:
   - search
   - blog
 
+
 markdown_extensions:
   - admonition
   - codehilite:
-      guess_lang: false
-      linenums: false
+      guess_lang: true
+      linenums: true
   - toc:
       permalink: true
   - footnotes
@@ -59,7 +60,6 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.inlinehilite
-  - pymdownx.magiclink
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences
