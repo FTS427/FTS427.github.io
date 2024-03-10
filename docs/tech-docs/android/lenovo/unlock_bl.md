@@ -18,7 +18,7 @@ BL在默认情况下是锁着的，并且手机厂商基本不会让你随意解
 
 ### MTKClient
 
-`MTKClient` 是一个利用联发科的芯片~~漏洞~~特性进行对设备操控的一个开源工具，我们将会使用ta帮助我们解锁
+`MTKClient` 是一个利用联发科的芯片 ~~漏洞~~ 特性进行对设备操控的一个开源工具，我们将会使用ta帮助我们解锁
 
 > [项目地址](https://github.com/bkerler/mtkclient)，不要忘记给一个星标！
 
@@ -33,11 +33,11 @@ paru -S mtkclient
 
 ## 开始解锁
 
-注意备份！注意备份！注意备份！重要的事情说三遍！
+**注意备份！注意备份！注意备份！重要的事情说三遍！**
 
 > 您完全可以根据 `MTKClient` 项目中的自述文件进行解锁，以下内容只能说是我个人对于自述文件的非官方翻译
 
-首先，清除用户数据（metadata userdaata）和md_udc分区的数据，保证解锁顺利（这一步可以跳过）
+首先，清除用户数据分区（metadata userdata）和md_udc分区的数据，保证解锁顺利（这一步可以跳过）
 
 ```zsh
 sudo mtk e metadata,userdata,md_udc
@@ -62,3 +62,4 @@ sudo mtk reset
 ```zsh
 sudo mtk_gui
 ```
+
