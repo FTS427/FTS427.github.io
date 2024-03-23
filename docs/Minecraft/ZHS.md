@@ -13,6 +13,8 @@
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="180px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=122.51.18.189&port=19132&dark=true"></iframe>
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="180px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=122.51.18.189&port=19131&dark=true"></iframe>
+
 ## 何为ZH-Server?
 
 你是否厌烦了在游戏里充钱？是否对加了一堆模组的逆天玩法感到不适？是否对动不动就把人踢出去的管理/腐竹感到厌恶？来吧，朋友！欢迎来到 ZH-Server 服务器！
