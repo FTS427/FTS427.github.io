@@ -7,7 +7,6 @@
 
 [![Discord](https://img.shields.io/badge/Discord-4B0082?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/S6SDhrad)
 [![QQ](https://img.shields.io/badge/QQ-836052388-4169E1?style=for-the-badge&logoColor=white)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=89oGlqOoovJVsXx_9cSg3ri8GNXr_rCs&authKey=SxgvNWIiXBx89Lb%2FvXyi2wQtFpzJetKtY44mAe3RfB2PHcdIzYeoP7C3HBjaI3gM&noverify=0&group_code=836052388)
-![邮箱](https://img.shields.io/badge/EMAIL-fts427%40outlook.com-4169E1?style=for-the-badge&logoColor=white)
 
 ## 服务器当前状态
 
@@ -45,7 +44,7 @@ ZH-Server是一个公益的生存服务器，也是一个以玩家为中心、�
 
 本服务器为公益服，无收费内容
 
-!!! 注意
+!!! warning 注意
     进入服务器前您务必阅读 [*游戏环境基础原则*](./gamimg_env.md) 和 [*管理员基础原则*](./op_rules.md) ，避免给他人和自己造成不必要的麻烦。
 
 ## 🎞服务器靓照
@@ -58,7 +57,7 @@ ZH-Server是一个公益的生存服务器，也是一个以玩家为中心、�
 
 腐竹：Quantum427 ZTT2008917
 
-管理：Quantum427 ZTT2008917
+管理：Quantum427 ZTT2008917 RetrunZeroGirl
 
 ## 本服保证绝不会出现以下内容
 
@@ -77,3 +76,4 @@ QQ群：**836052388** 欢迎大家进群！
 ## ZHS-I 已存档
 
 [点我下载](https://pan.huang1111.cn/s/3wkdCm)
+
