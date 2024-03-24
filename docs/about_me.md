@@ -20,6 +20,12 @@ Minecraft Bedrock, Minecraft Java, Undertale, SoulKnight, BlueArchive(国际服)
 
 ~~还喜欢睡觉~~
 
+## 联系方式
+
+QQ: 2783629533
+
+E-mail: FTS427@outlook.com  FTSquantum@gmail.com
+
 ## 开发环境
 
 虽然配置都很垃圾，但是还是想亮出来
@@ -58,7 +64,7 @@ Lenovo TB-X306FC_PRC
 
 ## 我的项目
 
-[MathCentralTool](https://github.com/QuantumLS-Studio/MathCentralTool) written in C++
+[MathCentralTool](https://github.com/QuantumLS-Studio/MathCentralTool) written in C
 
 [ECPPH](https://github.com/QuantumLS-Studio/ECPPH) written in C++
 
@@ -66,9 +72,7 @@ Lenovo TB-X306FC_PRC
 
 ## 梦想
 
-不知道为什么，我好像没有梦想...
-
-但我仍在朝着一个模糊的光亮奔跑...
+我在朝着一个模糊的光亮奔跑...
 
 ## 职位
 
