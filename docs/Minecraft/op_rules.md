@@ -8,6 +8,8 @@ Quantum427，ZTT2008917, ReturnZeroGirl
 
 ## OP们可以干什么？
 
+**所有管理员在执行任何命令时请先告知 Quantum427!**
+
 因为服务器的 `allow-cheats` 值为 `false` ，所以OP的权限并没有什么用
 
 ### 如果 `allow-cheats` 值为 `true` ，OP们可以干什么？（虽然我们不期待这样）
