@@ -33,7 +33,8 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Light mode
-extra:
+
+  extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/FTS427
@@ -41,7 +42,6 @@ extra:
 plugins: 
   - search
   - blog
-
 
 markdown_extensions:
   - admonition
