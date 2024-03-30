@@ -10,7 +10,7 @@
 
 ## 服务器当前状态
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="180px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=122.51.18.189&port=19132&dark=true"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="180px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=fts427.top&port=19132&dark=true"></iframe>
 
 ## 何为ZH-Server?
 
@@ -31,18 +31,20 @@ ZH-Server是一个公益的生存服务器，也是一个以玩家为中心、�
 - 启用作弊：是
 - 启用命令方块：是
 - 获得成就：否
-- 版本：1.20.61.01
-- 种子：-1497904907
-- 服务器IP：122.51.18.189
+- 版本：1.20.72.01
+- 种子：24
+- 服务器IP：fts427.top
 - 端口号：19132
 
 - 存档序号：II
 
 客户端需求：Minecraft基岩版
 
+更新频率：和最新版 `LeviLamina` 保持一致
+
 本服务器为公益服，无收费内容
 
-!!! warning 注意
+!!! warning
     进入服务器前您务必阅读 [*游戏环境基础原则*](./gamimg_env.md) 和 [*管理员基础原则*](./op_rules.md) ，避免给他人和自己造成不必要的麻烦。
 
 ## 🎞服务器靓照
@@ -61,7 +63,7 @@ ZH-Server是一个公益的生存服务器，也是一个以玩家为中心、�
 
 **中途跑路、莫名删档、滥用管理权限、一切作弊手段、随意踢人、充值、恶意圈地、故意伤害玩家**
 
-> 如果服务器出现以上内容请尽快发送邮件至 *FTS427@outlook.com* 联系本服QQ群群主！
+> 具体内容请见[*游戏环境基础原则*](./gamimg_env.md)，如果服务器出现以上内容请尽快发送邮件至 *<FTS427@outlook.com>* 联系本服QQ群群主！
 
 ## 其他信息
 
@@ -71,7 +73,8 @@ QQ群：**836052388** 欢迎大家进群！
 
 [*黑名单*](./no_play.md)
 
+[*感谢列表*](./gaming_thx.md)
+
 ## ZHS-I 已存档
 
 [点我下载](https://pan.huang1111.cn/s/3wkdCm)
-

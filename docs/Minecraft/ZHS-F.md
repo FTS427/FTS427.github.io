@@ -22,19 +22,18 @@
 
 `O`代表了`Offical`，意味着服务器将不会增加非官方功能
 
-`Faster`意味着更快
+`Faster`意味着更快，并尽量和官方更新速度保持一致
 
 ## 服务器信息
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="180px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=122.51.18.189&port=19131&dark=true"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="180px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=fts427.top&port=19131&dark=true"></iframe>
 
-IP: 122.51.18.189
+IP: fts427.top
 
 端口: 19131
 
-其它信息将会和`ZH-Server`保持一致，这里不再重复
+其它信息将会和 `ZH-Server` 保持一致，这里不再重复
 
 ## 注意事项
 
-此服务器的存档将不会和`ZH-Server`同步，并且永远也不会
-
+此服务器的存档将不会和 `ZH-Server` 同步，并且永远也不会
