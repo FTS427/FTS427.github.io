@@ -1,10 +1,10 @@
 # Welcome to Huang FTS427's website
 
-这里是 Huang FTS427 的小站，这里记录了我的Minecraft服务器 `ZH-Server` ，和我的一些技术性文档以及一些小记
+这里是 Huang FTS427 的小站，这里记录了我的Minecraft服务器 `ZH-Server` `锌-Server`，和我的一些技术性文档以及一些小记
 
-如果您发现某处有些问题或者不理解，可以向本仓库的 `Issues` 中提出质疑或上交 `PR` ，欢迎
+如果您发现某处有些问题或者不理解，可以向本仓库的 `Issues` 中提出您的疑惑；当然上交 `PR` 对文档进行修正也是欢迎的
 
-（感觉这个小站不错可以点一个 `star` 吗，感谢）
+（感觉这个小站不错可以点一个 `star` 吗？感谢您的支持！）
 
 本站使用MIT开源协议
 
@@ -32,4 +32,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-[感谢列表](./thx.md)
+[本小站感谢以下成员和项目](./thx.md)
