@@ -21,15 +21,15 @@ theme:
   palette:
     # Light mode
     - scheme: default
-      primary: blue
-      accent: light blue
+      primary: teal
+      accent: cyan
       toggle:
         icon: material/toggle-switch
         name: Dark mode
     # Dark mode
     - scheme: slate
-      primary: indigo
-      accent: blue
+      primary: teal
+      accent: cyan
       toggle:
         icon: material/toggle-switch-off-outline
         name: Light mode
