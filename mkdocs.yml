@@ -34,10 +34,6 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Light mode
   extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/FTS427
-
 plugins: 
   - search
   - blog
@@ -69,17 +65,23 @@ nav:
   - 我的服务器: 
     - ZH-Server: Minecraft/ZHS.md
     - ZH-Server-Faster: Minecraft/ZHS-F.md
-    - 游戏环境注意: Minecraft/gaming_env.md
+    - 服务器贡献人员: Minecraft/gaming_thx.md
+    - 游戏环境基础原则: Minecraft/gamimg_env.md
     - 管理员注意事项: Minecraft/op_rules.md
     - 黑名单: Minecraft/no_play.md
   - 链接: links.md
+  - 小记: 
+    - 引入: blog/index.md
   - 技术性文档: 
+    - 前言: tech-docs/index.md
     - Archlinux相关: 
       - Archlinux简介: tech-docs/archlinux/archlinux_info.md
       - Archlinux安装: tech-docs/archlinux/archlinux_install.md
     - Android相关:
       - TB-X306FC_PRC:
         - 设备简介: tech-docs/android/lenovo/device_info.md
+        - 解锁BL: tech-docs/android/lenovo/unlock_bl.md
+        - 结完BL后干点啥: tech-docs/android/lenovo/after_unlockbl.md
+        - 刷系统: tech-docs/android/lenovo/flash_system.md
     - 其它工具: 
       - MKdocs文档网站框架: tech-docs/tools/mkdocs.md
-
