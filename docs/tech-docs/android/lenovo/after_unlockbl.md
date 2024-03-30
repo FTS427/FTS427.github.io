@@ -20,10 +20,12 @@
     fastboot flash boot 打包好的boot文件路径
     ```
 
-!!! 警告
+!!! warning 警告
     刷入后请不要马上重启！否则会陷入反复重启！
 
-5. 刷入原厂的vbmeta文件并关闭 `avb`
+5. 刷入原厂的vbmeta文件并关闭 avb
+
+    `avb`是一种从Android11开始的一种基于vbmeta出于安全考虑的一种对系统进行检查的功能，如果校验不通过系统会陷入无限重启
 
     ```zsh
     fastboot vbmeta vbmeta文件路径 --disable-verification
