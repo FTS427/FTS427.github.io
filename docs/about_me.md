@@ -32,6 +32,8 @@ E-mail:
 
 - <FTSquantum@gmail.com>
 
+[我的B站空间](https://space.bilibili.com/1978537245?spm_id_from=333.1007.0.0)
+
 ## 开发环境
 
 虽然配置都很垃圾，但是还是想亮出来
