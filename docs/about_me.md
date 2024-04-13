@@ -40,7 +40,7 @@ E-mail:
 
 ### 计算机
 
-![my_computer](/assets/my_computer.png)
+![my_computer](assets/my_computer.png)
 
 主机: Dell Optiplex 780
 

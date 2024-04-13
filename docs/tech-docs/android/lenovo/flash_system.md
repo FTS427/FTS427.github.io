@@ -20,7 +20,7 @@
 
 检查您的设备是否支持GSI，可以使用[Treble Info](https://gitlab.com/api/v4/projects/30453147/packages/generic/apk/5.2.3/TrebleInfo-free.apk)完成检查
 
-![gsi-supprot](/asstes/)
+![gsi-supprot](../../../assets/gsi_support.png)
 
 如果检查结果如上图，恭喜您！您的设备支持GSI，让我们进入下一步吧！
 
