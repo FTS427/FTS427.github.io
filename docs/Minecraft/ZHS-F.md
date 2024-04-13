@@ -28,9 +28,9 @@
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="180px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=fts427.top&port=19131&dark=true"></iframe>
 
-IP: fts427.top
-
-端口: 19131
+- IP: fts427.top
+- 端口: 19131
+- 种子: 20240322
 
 其它信息将会和 `ZH-Server` 保持一致，这里不再重复
 
