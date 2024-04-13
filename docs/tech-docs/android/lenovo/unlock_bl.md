@@ -59,6 +59,8 @@ sudo mtk da seccfg unlock
 sudo mtk reset
 ```
 
+### 图形界面操作
+
 如果你对命令行实在不了解，你可以尝试使用带有图形界面的 `MTKClient` 进行操作
 
 ```zsh
