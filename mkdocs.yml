@@ -18,6 +18,8 @@ theme:
     repo: fontawesome/brands/git-alt
     edit: material/pencil 
     view: material/eye
+  favicon: assets/favicon.png
+  logo: assets/favicon.png
   palette:
     # Light mode
     - scheme: default
