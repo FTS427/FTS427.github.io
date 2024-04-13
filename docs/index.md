@@ -2,7 +2,7 @@
 
 这里是 Huang FTS427 的小站，这里记录了我的Minecraft服务器 `ZH-Server` `锌-Server`，和我的一些技术性文档以及一些小记
 
-如果您发现某处有些问题或者不理解，可以向本仓库的 `Issues` 中提出您的疑惑；当然上交 `PR` 对文档进行修正也是欢迎的
+如果您发现某处有些问题或者不理解，可以向本仓库的 [`Issues`](https://github.com/FTS427/FTS427.github.io/issues) 中提出您的疑惑；当然上交 [`PR`](https://github.com/FTS427/FTS427.github.io/pulls) 对文档进行修正也是欢迎的
 
 （感觉这个小站不错可以点一个 `star` 吗？感谢您的支持！）
 

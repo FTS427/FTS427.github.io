@@ -22,7 +22,7 @@ Minecraft Bedrock, Minecraft Java, Undertale, Soul Knight, BlueArchive(国际服
 
 ~~还喜欢睡觉~~
 
-## 想和我聊天
+## 在这里找到我
 
 QQ: 2783629533
 
@@ -40,11 +40,13 @@ E-mail:
 
 ### 计算机
 
+![my_computer](/assets/my_computer.png)
+
 主机: Dell Optiplex 780
 
-主力系统: Arch Linux 6.8.2-arch2-1
+主力系统: Arch Linux
 
-备用开发系统: Windows 8.1工作站
+备用开发系统: Windows 8.1 Work Station
 
 桌面环境: i3wm
 
@@ -62,7 +64,7 @@ Swap: 30GB
 
 机型: Lenovo TB-X306FC_PRC
 
-OS: Dot OS 5.2 (Android 11, GSI)
+OS: Lineage 19 (Android 12L, GSI)
 
 附加: Magisk 27.0 + LSPosed 1.9.2
 
@@ -72,15 +74,17 @@ CPU: MT6765
 
 内存: 64GB
 
-Swap: 3GB
+Swap: 2GB
 
 ## 我的项目
 
-[MathCentralTool](https://github.com/QuantumLS-Studio/MathCentralTool) written in C
+[MathTool-CLI](https://github.com/QuantumLS-Studio/MathTool-CLI) written in C
 
 [ECPPH](https://github.com/QuantumLS-Studio/ECPPH) written in C++
 
 [llbds_packer](https://github.com/FTS427/llbds_packer) GitAction
+
+[neofetch_for_minecraft_bedrock](https://github.com/FTS427/neofetch_for_minecraft_bedrock) written in JavaScript
 
 ## 梦想
 
@@ -90,7 +94,7 @@ Swap: 3GB
 
 马上中考的初三学生 &
 
-`ZH-Server` 的 ~~不称职~~ 腐竹（ &
+`ZH-Server` & `Zn Server` 的 ~~不称职~~ 腐竹（ &
 
 `WonderLab.Override` 综合评价员（ &
 
