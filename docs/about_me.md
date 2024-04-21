@@ -36,7 +36,7 @@ E-mail:
 
 ## 开发环境
 
-虽然配置都很垃圾，但是还是想亮出来
+虽然配置都不是很好，但是还是想亮出来
 
 ### 计算机
 
@@ -46,13 +46,13 @@ E-mail:
 
 主力系统: Arch Linux
 
-备用开发系统: Windows 8.1 Work Station
+备用开发系统: Windows 10 Work Station
 
 桌面环境: i3wm
 
-CPU: Intel Core 2 Duo E7500（没错，就是这么垃圾的CPU，我也没办法）
+CPU: AMD Athlon II X2 270 @ 3.4GHz
 
-运存: 4GB Samsung
+运存: 8GB
 
 Swap: 30GB
 
@@ -85,6 +85,8 @@ Swap: 2GB
 [llbds_packer](https://github.com/FTS427/llbds_packer) GitAction
 
 [neofetch_for_minecraft_bedrock](https://github.com/FTS427/neofetch_for_minecraft_bedrock) written in JavaScript
+
+[QuantumLS-Studio](https://github.com/QuantumLS-Studio) 我的工作室，欢迎加入！
 
 ## 梦想
 
