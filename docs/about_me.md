@@ -40,10 +40,6 @@ E-mail:
 
 ### 计算机
 
-![my_computer](assets/my_computer.png)
-
-主机: Dell Optiplex 780
-
 主力系统: Arch Linux
 
 备用开发系统: Windows 10 Work Station
