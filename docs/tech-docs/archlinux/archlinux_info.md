@@ -1,9 +1,17 @@
 # Arch Linux 简介
 
-!!! 注意
-    以下内容仅代表我的个人观点，请理性参考，如果与 Arch Linux wiki 中有冲突和不一致，请以 Arch Linux wiki 中的内容为主
+![Arch Linux](/assets/archlinux_logo_ba.png)
 
-## 引入
+!!! 注意
+    以下内容仅代表我的个人观点，请理性参考，如果与 Arch Linux wiki 中有冲突和不一致，请以 [*Arch Linux wiki*](https://wiki.archlinux.org/) 中的内容为主
+
+## 新闻 2024年领导者投选
+
+恭喜 `Levente` 成为今年的 Arch Linux 项目领导者！
+
+[原文连接](https://archlinux.org/news/arch-linux-2024-leader-election-results/)
+
+## 引言
 
 你是否在找一个足够小，足够轻量，可以尽可能多自定义的用于开发的 Linux 发行版？或许，在这里可以找到答案......
 
@@ -15,7 +23,7 @@
 
 ### 她
 
-因为个人对有关计算机事物的有着一种特殊感情，所以下文中可能会使用代表女性的`她`指代一些东西，如果您对此感到反感和不适，您可以选择不看这篇文章
+因为个人对有关计算机事物的有着一种特殊感情，所以下文中可能会使用代表女性的`她`指代 Arch Linux，如果您对此感到反感和不适，您可以选择不看这篇文章
 
 ## 正言
 
@@ -42,3 +50,12 @@ Arch Linux 在众多 Linux 发行版中是少有的需要用户手动安装的�
 拿 Arch Linux 当作开发环境是可行的，因为本小站的内容就是在 Arch Linux 上创建和编写的，所以，请不要相信`滚动发行版不适用于开发`的谎言
 
 当然，面对使用众多的语言开发者，她也是有不支持的对象，如Python开发者和C#开发者，Pypi(pip)对于 Arch Linux 的妥协性和复杂繁琐性足以让您止步。所以，我不建议Python和C#的开发者们选择 Arch Linux；若是您觉得您有这个勇气可以克服这些困难，您可以试试，祝您挑战成功勇士！
+
+## Arch Linux 酱
+
+对，Arch Linux 怎么可以不过生日？她的生日在每年的3月11日，希望你记得给她过生日
+
+![野生Arch Linux酱](/assets/archlinux_look.jpg)
+
+Qw<
+

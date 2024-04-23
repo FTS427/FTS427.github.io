@@ -40,6 +40,8 @@ E-mail:
 
 ### 计算机
 
+![screenshot](assets/my_computer_amd.png)
+
 主力系统: Arch Linux
 
 备用开发系统: Windows 10 Work Station
