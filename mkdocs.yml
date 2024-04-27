@@ -88,3 +88,4 @@ nav:
         - 刷系统: tech-docs/android/lenovo/flash_system.md
     - 其它工具: 
       - MKdocs网站框架: tech-docs/tools/mkdocs.md
+      - Scoop包管理器: tech-docs/tools/scoop_use.md
