@@ -1,6 +1,6 @@
 # Arch Linux 简介
 
-![Arch Linux](/assets/archlinux_logo_ba.png)
+![Arch Linux](../../assets/archlinux_logo_ba.png)
 
 !!! 注意
     以下内容仅代表我的个人观点，请理性参考，如果与 Arch Linux wiki 中有冲突和不一致，请以 [*Arch Linux wiki*](https://wiki.archlinux.org/) 中的内容为主
@@ -55,7 +55,6 @@ Arch Linux 在众多 Linux 发行版中是少有的需要用户手动安装的�
 
 对，Arch Linux 怎么可以不过生日？她的生日在每年的3月11日，希望你记得给她过生日
 
-![野生Arch Linux酱](/assets/archlinux_look.jpg)
+![Arch Linux酱](../../assets/archlinux_look.jpg)
 
 Qw<
-
