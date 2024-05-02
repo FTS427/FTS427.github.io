@@ -4,6 +4,7 @@ repo_name: FTS427/FTS427.github.io
 edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2022 - 2024 Huang FTS427
 theme:
+  custom_dir: overrides
   name: material
   language: zh
   features:
