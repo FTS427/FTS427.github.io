@@ -5,7 +5,7 @@
 - Device name: Lenovo Tab M10 HD
 - Device id: TB-X306FC_PRC
 - CPU: MTK MT8768t ( MTK Helio P22t )
-- Rom: 64GB
+- 存储空间: 64GB
 - Ram: 4GB
 - Swap: 2GB
 - System: Android 11
