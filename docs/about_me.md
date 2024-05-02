@@ -68,7 +68,7 @@ OS: Lineage 19 (Android 12L, GSI)
 
 CPU: MT6765
 
-运存: 3.8GB
+运存: 4GB
 
 内存: 64GB
 
