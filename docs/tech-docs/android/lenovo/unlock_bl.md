@@ -28,7 +28,7 @@ Archlinux用户可以在AUR上找到ta，然后可以用AUR助手进行安装，
 paru -S mtkclient
 ```
 
-!!! warning
+!!! warning "请注意"
     在安装完成后一定一定一定要重启您的计算机设备，否则 `MTKClient` 将无法正常工作！
 
 ## 开始解锁
