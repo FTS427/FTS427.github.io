@@ -1,4 +1,4 @@
-# ZH-Server 管理员基础原则
+# ZH-Server & Zn Server 管理员基础原则
 
 > 以下的 `OP` 均指 `Operator` ，及 `管理员`
 
