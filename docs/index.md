@@ -1,8 +1,7 @@
 <div id="gitalk-container"></div>
-
 var gitalk = new Gitalk({
-    clientID: 'GitHub Application Client ID',
-    clientSecret: 'GitHub Application Client Secret',
+    clientID: 'Ov23ctHFDES6ZfMXo8l8',
+    clientSecret: '91cf57da04febc0840de5243f71eea0850607bba',
     repo: 'FTS427.github.io',
     owner: 'FTS427',
     admin:  ['FTS427'],
