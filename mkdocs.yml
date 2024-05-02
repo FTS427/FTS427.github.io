@@ -39,7 +39,8 @@ theme:
 plugins: 
   - search
   - blog
-
+extra_javascript:
+  - javascripts/extra.js
 markdown_extensions:
   - admonition
   - codehilite:
