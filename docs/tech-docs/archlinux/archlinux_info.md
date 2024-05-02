@@ -1,8 +1,8 @@
 # Arch Linux 简介
 
-![Arch Linux](../../assets/archlinux_logo_ba.png)
+![Arch Linux](https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg)
 
-!!! 注意
+!!! tip "注意"
     以下内容仅代表我的个人观点，请理性参考，如果与 Arch Linux wiki 中有冲突和不一致，请以 [*Arch Linux wiki*](https://wiki.archlinux.org/) 中的内容为主
 
 ## 新闻 2024年领导者投选
