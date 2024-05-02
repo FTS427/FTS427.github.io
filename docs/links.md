@@ -14,6 +14,8 @@
 
 [ReturnZeroGirl的小站](http://www.returnzerogirl.top/)
 
+[Cascade Kobayashi](https://cascade.moe/)
+
 ## 其它有趣的项目
 
 [AL-1S（](https://alan-shangmike.github.io/Sping_Aris_github.io/)
