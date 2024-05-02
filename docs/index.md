@@ -1,4 +1,5 @@
 <div id="gitalk-container"></div>
+
 # Welcome to Huang FTS427's website
 
 这里是 Huang FTS427 的小站，这里记录了我的Minecraft服务器 `ZH-Server` `锌-Server`，和我的一些技术性文档以及一些小记
