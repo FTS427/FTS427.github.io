@@ -11,7 +11,7 @@
 为了支持 MC Java版玩家
 
 ## 服务器信息
-- 版本: Minecraft 1.20.4 原版
+- 版本: Minecraft 1.20.1 原版
 - 地址: zns.fts427.top 
 - 世界种子: 20240502
 - 服务端:   Fabric 生电友好
