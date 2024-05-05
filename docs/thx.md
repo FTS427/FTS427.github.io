@@ -11,3 +11,5 @@
 [MKdocs-Materia](https://github.com/squidfunk/mkdocs-material) 漂亮的 `MKdocs` 主题
 
 [MCBS-Server-Motd](https://github.com/BlackBEDevelopment/MCBE-Server-Motd) 展示 `Minecraft` 服务器状况
+
+[Gitalk](https://github.com/gitalk/gitalk) 评论系统
