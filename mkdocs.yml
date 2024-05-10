@@ -88,6 +88,8 @@ nav:
         - 解锁BL: tech-docs/android/lenovo/unlock_bl.md
         - 结完BL后干点啥: tech-docs/android/lenovo/after_unlockbl.md
         - 刷系统: tech-docs/android/lenovo/flash_system.md
+      - OPPO A31t:
+        - 设备简介: tech-docs/android/oppo/device_info.md
     - 其它工具: 
       - MKdocs网站框架: tech-docs/tools/mkdocs.md
       - Scoop包管理器: tech-docs/tools/scoop_use.md
