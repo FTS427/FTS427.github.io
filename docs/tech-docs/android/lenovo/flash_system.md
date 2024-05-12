@@ -42,4 +42,8 @@ Dot OS 5, Lineage OS 18 & 19, PixelExpenrience Android 13
 
 ## 刷入
 
-由于没有一个标准的、官方的TWRP对其支持，所以只能通过最原始的手段进行刷入
+由于没有一个标准的、官方的`TWRP`对其支持，所以只能通过最原始的手段进行刷入，也就是通过`fastbootd`（不是`fastboot`，Android从11就开始弃用`fastboot`转而使用`fastbootd`）来刷写系统
+
+> 其实我本人构建过为这台机器的`TWRP`，但是问题很多以至于我放弃了
+
+### `FastbootD` & `Fastboot`

@@ -20,8 +20,8 @@
     fastboot flash boot 打包好的boot文件路径
     ```
 
-!!! warning 警告
-    刷入后请不要马上重启！否则会陷入反复重启！
+    !!! warning "警告"
+        刷入后请不要马上重启！否则会陷入反复重启！
 
 5. 刷入原厂的vbmeta文件并关闭 avb
 
