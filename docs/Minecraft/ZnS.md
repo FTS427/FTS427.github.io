@@ -13,11 +13,12 @@
 ## 服务器信息
 - 版本: Minecraft 1.20.1 原版
 - 地址: zns.fts427.top 
-- 世界种子: 20240502
+- 世界种子: 20240512
 - 服务端:   Fabric 生电友好
 
 其它信息将会和 `ZH-Server` 保持一致，这里不再重复
 
 !!! warning "注意事项"
     此服务器的存档将不会和 `ZH-Server` 同步，并且永远也不会
-    
+## 旧存档
+[http://file.returnzerogirl.top/znserverworld_archive](http://file.returnzerogirl.top/znserverworld_archive)
