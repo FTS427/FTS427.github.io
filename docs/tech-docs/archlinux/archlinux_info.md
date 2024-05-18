@@ -1,6 +1,6 @@
 # Arch Linux 简介
 
-![Arch Linux](https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg)
+![Arch Linux logo](https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg)
 
 !!! tip "注意"
     以下内容仅代表我的个人观点，请理性参考，如果与 Arch Linux wiki 中有冲突和不一致，请以 [*Arch Linux wiki*](https://wiki.archlinux.org/) 中的内容为主
@@ -17,13 +17,13 @@
 
 ### Keep it simple, stupid
 
-`Keep it simple, stupid!`这句话被称为`KISS`原则，这告诉开发者们要尽力让自己的程序在可以满足需求时足够精简
+`Keep it simple, stupid!` 这句话被称为 `KISS` 原则，这告诉开发者们要尽力让自己的程序在可以满足需求时足够精简
 
 而 Arch Linux 就是根据这一原则而生的一个独特的偏向 Unix 的 Linux 滚动更新发行版
 
 ### 她
 
-因为个人对有关计算机事物的有着一种特殊感情，所以下文中可能会使用代表女性的`她`指代 Arch Linux，如果您对此感到反感和不适，您可以选择不看这篇文章
+因为笔者对有关计算机事物的有着一种特殊感情，所以下文中可能会使用代表女性的`她`指代 Arch Linux，如果您对此感到反感和不适，您可以选择不看这篇文章
 
 ## 正言
 
@@ -43,13 +43,13 @@
 
 Arch Linux 在众多 Linux 发行版中是少有的需要用户手动安装的发行版之一，有很多人也因此对 Arch Linux 避而远之，但是正是因为需要通过用户根据自己的意愿进行安装的这种看似`不为用户着想`的行为，体现了 她的`自主`和`自由`
 
-当然，她的`AUR`也是`自主`和`自由`的产物之一，这是一个为了填补 Linux 软件稀少这一缺点的一个由众多 Arch Linux 用户们创建的一个软件仓库
+当然，她的 `AUR` 也是`自主`和`自由`的产物之一，这是一个为了填补 Linux 软件稀少这一缺点的一个由众多 Arch Linux 用户们创建的一个软件仓库
 
 ### 主要面对的开发者
 
 拿 Arch Linux 当作开发环境是可行的，因为本小站的内容就是在 Arch Linux 上创建和编写的，所以，请不要相信`滚动发行版不适用于开发`的谎言
 
-当然，面对使用众多的语言开发者，她也是有不支持的对象，如Python开发者和C#开发者，Pypi(pip)对于 Arch Linux 的妥协性和复杂繁琐性足以让您止步。所以，我不建议Python和C#的开发者们选择 Arch Linux；若是您觉得您有这个勇气可以克服这些困难，您可以试试，祝您挑战成功勇士！
+当然，面对使用众多的语言开发者，她也是有不支持的对象，如 Python 开发者和 C# 开发者，Pypi(pip) 对于 Arch Linux 的妥协性和复杂繁琐性足以让您止步。所以，我不建议 Python 和 C# 的开发者们选择 Arch Linux；若是您觉得您有这个勇气可以克服这些困难，您可以试试，祝您挑战成功勇士！
 
 ## Arch Linux 酱
 

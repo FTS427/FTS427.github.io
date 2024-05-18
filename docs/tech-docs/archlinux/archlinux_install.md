@@ -9,3 +9,5 @@
 [中文安装手册1](https://archlinuxstudio.github.io/ArchLinuxTutorial/#/)
 
 [中文安装手册2](https://arch.icekylin.online/)
+
+当然你可以键入 `archinstall` 使用官方的更便于安装的脚本进行快速安装
