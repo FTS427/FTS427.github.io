@@ -4,17 +4,17 @@
 
 ## 这是什么？
 
-这是`ZH-server`的 Java 版本服务器，
+这是 `ZH-server` 的 Java 版本服务器，
 
 ## 目的
 
-为了支持 MC Java版玩家
+为了支持 MC Java 版玩家
 
 ## 服务器信息
 
-- 版本: Minecraft 1.20.1 原版
+- 版本: Minecraft 1.18.2 原版
 - 地址: zns.fts427.top
-- 世界种子: 20240512
+- 世界种子: 5
 - 服务端: Fabric 生电友好
 
 其它信息将会和 `ZH-Server` 保持一致，这里不再重复
@@ -22,6 +22,9 @@
 !!! warning "注意事项"
     此服务器的存档将不会和 `ZH-Server` 同步，并且永远也不会
 
-## 旧存档
+## 昔日时光
 
-[http://file.returnzerogirl.top/znserverworld_archive](http://file.returnzerogirl.top/znserverworld_archive)
+我们在每一次服务器更换存档时会保存上一次的存档，玩家们可以下载寻找以前的欢乐时光
+
+[点我下载](http://file.returnzerogirl.top/znserverworld_archive)
+
