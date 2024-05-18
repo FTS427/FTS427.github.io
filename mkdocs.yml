@@ -83,13 +83,15 @@ nav:
       - Archlinux酱: tech-docs/archlinux/archlinux_info.md
       - Archlinux安装: tech-docs/archlinux/archlinux_install.md
     - Android相关:
-      - TB-X306FC_PRC:
+      - 引言: tech-docs/android/index.md
+      - Lenovo TB-X306FC_PRC:
         - 设备简介: tech-docs/android/lenovo/device_info.md
-        - 解锁BL: tech-docs/android/lenovo/unlock_bl.md
-        - 结完BL后干点啥: tech-docs/android/lenovo/after_unlockbl.md
+        - 解锁 BL : tech-docs/android/lenovo/unlock_bl.md
+        - 结完 BL 后干点啥: tech-docs/android/lenovo/after_unlockbl.md
         - 刷系统: tech-docs/android/lenovo/flash_system.md
       - OPPO A31t:
         - 设备简介: tech-docs/android/oppo/device_info.md
+        - 刷机: tech-docs/android/oppo/flash_system.md
     - 其它工具: 
-      - MKdocs网站框架: tech-docs/tools/mkdocs.md
-      - Scoop包管理器: tech-docs/tools/scoop_use.md
+      - MKdocs 网站框架: tech-docs/tools/mkdocs.md
+      - Scoop 包管理器: tech-docs/tools/scoop_use.md
