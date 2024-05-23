@@ -10,9 +10,11 @@
 
 ## 朋友们的小站
 
-[西路Baka大佬的blog](https://baka_hs.gitee.io/xilu-baka/)
+[西路Baka 大佬的blog](https://baka_hs.gitee.io/xilu-baka/)
 
-[ReturnZeroGirl的小站](http://www.returnzerogirl.top/)
+[ReturnZeroGirl 的小站](http://www.returnzerogirl.top/)
+
+[MM 喵了个 的小站](https://www.mimiaomc.top/zh-CN/index.html)
 
 [Cascade Kobayashi](https://cascade.moe/)
 
