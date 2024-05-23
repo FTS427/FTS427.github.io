@@ -8,6 +8,8 @@
 
 [`BA` 剧情站](https://blue-archive.io/)
 
+[`Y.Liu` 的工具文档小站](https://yliu-fe.github.io/)
+
 ## 朋友们的小站
 
 [西路Baka 大佬的blog](https://baka_hs.gitee.io/xilu-baka/)

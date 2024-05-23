@@ -8,8 +8,10 @@
 
 [MKdocs](https://github.com/mkdocs/mkdocs) 整个小站的框架
 
-[MKdocs-Materia](https://github.com/squidfunk/mkdocs-material) 漂亮的 `MKdocs` 主题
+[MKdocs-Material](https://github.com/squidfunk/mkdocs-material) 漂亮的 `MKdocs` 主题
 
 [MCBS-Server-Motd](https://github.com/BlackBEDevelopment/MCBE-Server-Motd) 展示 `Minecraft` 服务器状况
 
-[Gitalk](https://github.com/gitalk/gitalk) 评论系统
+[Gitalk](https://github.com/gitalk/gitalk) 使用 `Git issues` 评论系统 (已弃用)
+
+[Gitcus](https://github.com/apps/giscus) 使用 `Git discussion` 评论系统
