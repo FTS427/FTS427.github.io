@@ -74,16 +74,20 @@ nav:
     - 游戏黑名单: Minecraft/no_play.md
   - 友链: links.md
   - 小记: blog/index.md
-  - 技术文档: tech-docs/index.md
+  - 技术文档: 
+    - 前言: tech-docs/index.md
     - Archlinux相关: 
       - Archlinux酱: tech-docs/archlinux/archlinux_info.md
       - Archlinux安装: tech-docs/archlinux/archlinux_install.md
-    - Android相关: tech-docs/android/index.md
-      - Lenovo TB-X306FC_PRC: tech-docs/android/lenovo/device_info.md
+    - Android相关: 
+      - 前言: tech-docs/android/index.md
+      - Lenovo TB-X306FC_PRC: 
+        - 设备信息: tech-docs/android/lenovo/device_info.md
         - 解 BL 锁: tech-docs/android/lenovo/unlock_bl.md
         - 解 BL 锁后干点啥: tech-docs/android/lenovo/after_unlockbl.md
         - 刷系统: tech-docs/android/lenovo/flash_system.md
-      - OPPO A31t: tech-docs/android/oppo/device_info.md
+      - OPPO A31t: 
+        - 设备信息: tech-docs/android/oppo/device_info.md
         - 刷机: tech-docs/android/oppo/flash_system.md
     - 其它工具: 
       - MKdocs 网站框架: tech-docs/tools/mkdocs.md
