@@ -40,8 +40,6 @@ theme:
 plugins: 
   - search
   - blog
-extra_javascript:
-  - javascripts/extra.js
 markdown_extensions:
   - admonition
   - codehilite:
@@ -68,30 +66,26 @@ nav:
   - 感谢列表: thx.md
   - 我的服务器: 
     - ZH-Server: Minecraft/ZHS.md
-    - Zn-Server: Minecraft/ZnS.md
-    - 服务器资源: Minecraft/resource.md
+    - Zn-Server（已关闭）: Minecraft/ZnS.md
+    - 服务器所包含资源: Minecraft/resource.md
     - 服务器贡献人员: Minecraft/gaming_thx.md
     - 游戏环境基础原则: Minecraft/gamimg_env.md
     - 管理员注意事项: Minecraft/op_rules.md
-    - 黑名单: Minecraft/no_play.md
+    - 游戏黑名单: Minecraft/no_play.md
   - 友链: links.md
-  - 小记: 
-    - 引入: blog/index.md
-  - 技术性文档: 
-    - 前言: tech-docs/index.md
+  - 小记: blog/index.md
+  - 技术文档: tech-docs/index.md
     - Archlinux相关: 
       - Archlinux酱: tech-docs/archlinux/archlinux_info.md
       - Archlinux安装: tech-docs/archlinux/archlinux_install.md
-    - Android相关:
-      - 引言: tech-docs/android/index.md
-      - Lenovo TB-X306FC_PRC:
-        - 设备简介: tech-docs/android/lenovo/device_info.md
-        - 解锁 BL : tech-docs/android/lenovo/unlock_bl.md
-        - 结完 BL 后干点啥: tech-docs/android/lenovo/after_unlockbl.md
+    - Android相关: tech-docs/android/index.md
+      - Lenovo TB-X306FC_PRC: tech-docs/android/lenovo/device_info.md
+        - 解 BL 锁: tech-docs/android/lenovo/unlock_bl.md
+        - 解 BL 锁后干点啥: tech-docs/android/lenovo/after_unlockbl.md
         - 刷系统: tech-docs/android/lenovo/flash_system.md
-      - OPPO A31t:
-        - 设备简介: tech-docs/android/oppo/device_info.md
+      - OPPO A31t: tech-docs/android/oppo/device_info.md
         - 刷机: tech-docs/android/oppo/flash_system.md
     - 其它工具: 
       - MKdocs 网站框架: tech-docs/tools/mkdocs.md
       - Scoop 包管理器: tech-docs/tools/scoop_use.md
+      - LL_Easier 快速打包 LeviLamina: tech-docs/tools/ll_easier.md
