@@ -98,9 +98,11 @@ Swap: 2GB
 
 马上中考的初三学生 &
 
-`ZH-Server` & `Zn Server` 的 ~~不称职~~ 腐竹（ &
+`ZH-Server` 的 ~~不称职~~ 腐竹（ &
 
 `WonderLab.Override` 综合评价员（ &
+
+`Blessing Studio` 中的一个无名小卒 &
 
 ~~夏莱老师~~ &
 
