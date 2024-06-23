@@ -18,7 +18,7 @@ comments: true
 
 [西路Baka 大佬的blog](https://baka_hs.gitee.io/xilu-baka/)
 
-[ReturnZeroGirl 的小站](http://www.returnzerogirl.top/)
+[ReturnZeroGirl 的小站](http://www.returnzerogirl.com/)
 
 [MM 喵了个 的小站](https://www.mimiaomc.top/zh-CN/index.html)
 
