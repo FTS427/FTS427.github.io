@@ -2,7 +2,7 @@
 
 ## 有朝一日再会
 
-Zn Server 已由于无人过久和浪费资源而停止，但是您可以前往 [这里](http://www.returnzerogirl.top/pages/rzgs/welcome/) 来游玩 ReturnZeroGirl 维护的 Java 版服务器
+Zn Server 已由于无人过久和浪费资源而停止，但是您可以前往 [这里](http://www.returnzerogirl.com/pages/rzgs/welcome/) 来游玩 ReturnZeroGirl 维护的 Java 版服务器
 
 ## 昔日时光
 
