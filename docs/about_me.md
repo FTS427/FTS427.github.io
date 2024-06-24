@@ -66,11 +66,11 @@ Swap: 30GB
 
 机型: Lenovo TB-X306FC_PRC
 
-OS: Lineage 19 (Android 12L, GSI)
+OS: Lenovo 原厂国际版
 
 附加: Magisk 27.0 + LSPosed 1.9.2
 
-CPU: MT6765
+CPU: MT6765/MT8768
 
 运存: 4GB
 
@@ -95,8 +95,6 @@ Swap: 2GB
 我在朝着一个模糊的光亮奔跑...
 
 ## 职位
-
-马上中考的初三学生 &
 
 `ZH-Server` 的 ~~不称职~~ 腐竹（ &
 

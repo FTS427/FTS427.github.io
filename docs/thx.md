@@ -2,7 +2,7 @@
 
 ## 感谢我的朋友们
 
-[ReturnZeroGirl](https://github.com/ReturnZeroGirl) 提供了本小站的域名，并对服务器文档加以改进
+[ReturnZeroGirl](https://github.com/ReturnZeroGirl) 提供了本小站的域名，并对本文档加以改进
 
 ## 感谢以下开源项目
 

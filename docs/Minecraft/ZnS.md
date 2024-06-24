@@ -9,4 +9,3 @@ Zn Server 已由于无人过久和浪费资源而停止，但是您可以前往 
 我们在每一次服务器更换存档时会保存上一次的存档，玩家们可以下载寻找以前的欢乐时光
 
 [点我下载](http://file.returnzerogirl.top/znserverworld_archive)
-
