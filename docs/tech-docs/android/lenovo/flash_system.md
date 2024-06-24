@@ -4,9 +4,9 @@
 
 对于 `Lenovo` 的平板来说，直接支持的rom很少，或者说根本就没有，因为 `Lenovo` 平板也算是 `冷门` 机型了
 
-> 我正在考虑在2024年的暑假期间自己编译一个基于 `Lineage OS` 的 rom 为我的这部`冷门`机器，如果您对此也有兴趣可以联系我
+> 我正在考虑在2024年的暑假期间自己编译一个基于 `Lineage OS 20` 的 rom 为我的这部`冷门`机器，如果您对此也有兴趣可以联系我
 
-所以通过设备对 `GSI` 的支持进行换系统、刷机
+所以目前仅能通过设备对 `GSI` 的支持进行换系统、刷机
 
 ## GSI 初步认识
 
@@ -34,11 +34,12 @@ Dot OS 5, Lineage OS 18 & 19, PixelExpenrience Android 13
 
 当然，你也可以在[这份清单](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list)上寻找你喜欢的GSI镜像
 
-我之前在 `Dot OS` 上过的“逍遥快活”，我个人认为 `Dot OS` 是这几款里面既有颜值又有可玩性的一个。但是使用ta也将面临有些缺陷，如：
+我之前曾在 `Dot OS` 上过的“逍遥快活”，我个人认为 `Dot OS` 是这几款里面既有颜值又有可玩性的一个。但是 ta 也有一些缺陷，如：
 
 - 对平板设备的支持虽然有，但很差
 - 续航变短（估计是GApps的问题）
 - 有时候会莫名其妙的卡顿
+- 设备的红色指示灯一直常亮
 
 ## 刷入
 
@@ -47,3 +48,29 @@ Dot OS 5, Lineage OS 18 & 19, PixelExpenrience Android 13
 > 其实我本人构建过为这台机器的 `TWRP` ，但是问题很多以至于我放弃了
 
 ### `FastbootD` & `Fastboot`
+
+这两者是使用方法相似但是可操控性不一样的两种模式，是为让 Android 设备更加安全才这样决定的
+
+#### FastbootD
+
+这项模式在 Android 11 之前是不存在的，这是一个基于 `recovery` 的 `fastboot` 模式，专门用于进行刷写 `super` 分区中内容的模式，如要进入此模式，只能将设备先重启至 `recovery` 模式下，挂载 system 分区(可选)后选择进入 fastboot 模式(不是 bootloader 模式)进行进入
+
+此模式下可以使用 `fastboot` 的命令进行对设备 `super` 分区内的内容操作
+
+#### Fastboot
+
+这项模式仅在早期旧版 Android 设备中不存在，正常情况下都是存在的，用于刷写所有分区(Android 11之前的设备)、除 `super` 分区包含的分区内容(Android 11 之后的设备)，如果要进入此模式，可以使用 ADB 命令进入
+
+```zsh
+adb reboot bootloader
+```
+
+### 开始刷入
+
+将设备重启至 `fastbootd` 模式下并确保 system 分区已被挂载，在计算机的终端中键入以下命令
+
+```zsh
+fastboot flash system 你下载好的 GSI 镜像文件路径
+```
+
+然后等待提示 100% 完成后重启，这样，你的设备已经刷入了 GSI
