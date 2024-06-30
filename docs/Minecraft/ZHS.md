@@ -3,7 +3,7 @@
     <img width="300" src="\assets\ZHS\photos\title.png">
 </div>
 
-# ZH-Server服务器——保持原生的基岩版公益生存服务器
+# ZH-Server 服务器——保持原生的互通公益生存服务器
 
 [![QQ](https://img.shields.io/badge/QQ-836052388-4169E1?style=for-the-badge&logoColor=white)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=89oGlqOoovJVsXx_9cSg3ri8GNXr_rCs&authKey=SxgvNWIiXBx89Lb%2FvXyi2wQtFpzJetKtY44mAe3RfB2PHcdIzYeoP7C3HBjaI3gM&noverify=0&group_code=836052388)
 
@@ -30,18 +30,15 @@ ZH-Server是一个公益的生存服务器，也是一个以玩家为中心、�
 - [x] 启用作弊
 - [x] 启用命令方块
 - [ ] 获得成就
-- 版本：1.21.0 ~ 1.2
+- 版本：1.21.0
 - 种子：2406241129
 - 服务器IP：fts427.top
-- 端口号：19132
+- Bedrock Edittion 端口号：19132
+- Java Edition 端口号：25565
 - [x] 实验性玩法
 - [x] 假日创造者功能
 - [x] 行为包 / 模组
-- 存档序号：IV
-
-客户端需求：Minecraft基岩版
-
-更新频率：和 `Nukkit-MOT` 的最新构建保持一致
+- 存档序号：V
 
 本服务器为公益服，无收费内容
 
@@ -58,9 +55,9 @@ ZH-Server是一个公益的生存服务器，也是一个以玩家为中心、�
 
 > 以下名称均为游戏内名称
 
-腐竹：Quantum427 ZTT2008917
+腐竹：Huang FTS427,  ZTT2008917
 
-管理：Quantum427 ZTT2008917 RetrunZeroGirl
+管理：Huang FTS427,  ZTT2008917,  RetrunZeroGirl
 
 ## 本服保证绝不会出现以下内容
 
@@ -77,6 +74,16 @@ ZH-Server是一个公益的生存服务器，也是一个以玩家为中心、�
 [*黑名单*](./no_play.md)
 
 ## 过去的回忆
+
+### ZHS-IV
+
+> 由于是采用的 `Nukkit-MOT` 作为服务器，所以存档是 Java 版的格式，如有需求请自行转换
+
+[点我下载](https://cncncloud.com/s/yP5KRfz)
+
+### ZHS-III
+
+[点我下载](https://cncncloud.com/s/xk5JPu4)
 
 ### ZHS-II 存档丢失无法找回，我们对此感到抱歉
 
