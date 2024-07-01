@@ -4,11 +4,11 @@
 
 ## 目前的OP有谁？
 
-Quantum427，ZTT2008917, ReturnZeroGirl
+Huang FTS427, ZTT2008917, ReturnZeroGirl
 
 ## OP们可以干什么？
 
-**所有管理员在执行任何命令时请先告知 Quantum427!**
+**所有管理员在执行任何命令时请先告知 Huang FTS427!**
 
 因为服务器的 `allow-cheats` 值为 `false` ，所以OP的权限并没有什么用
 

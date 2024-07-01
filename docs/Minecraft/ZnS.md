@@ -1,4 +1,8 @@
-# ZN Server-JavaEdition (已终结)
+---
+comments: true
+---
+
+# Zn Server-JavaEdition (已终结)
 
 ## 有朝一日再会
 

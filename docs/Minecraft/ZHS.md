@@ -11,15 +11,15 @@
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="180px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=fts427.top&port=19132&dark=true"></iframe>
 
-## 何为ZH-Server?
+## 何为 ZH-Server?
 
 你是否厌烦了在游戏里充钱？是否对动不动就把人踢出去的 管理们 / 腐竹 感到厌恶？来吧，朋友！欢迎来到 ZH-Server 服务器！
 
-ZH-Server是一个公益的生存服务器，也是一个以玩家为中心、听取玩家建议的服务器，我们尊重每一位玩家对服务器的建议，并尽力建设一个更美丽的游戏环境。
+ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、听取玩家建议的服务器，我们尊重每一位玩家对服务器的建议，并尽力建设一个更美丽的游戏环境
 
 ## `ZH` 代表什么？
 
-`ZH` 是 `Zero Harm` （零伤害）的缩写，我们希望每一位服务器的成员可以做到互帮互助、玩家之间零伤害、零冲突。
+`ZH` 是 `Zero Harm` （零伤害）的缩写，我们希望每一位服务器的成员可以做到互帮互助、玩家之间零伤害、零冲突
 
 ## 服务器详情信息
 
@@ -33,7 +33,7 @@ ZH-Server是一个公益的生存服务器，也是一个以玩家为中心、�
 - 版本：1.21.0
 - 种子：2406241129
 - 服务器IP：fts427.top
-- Bedrock Edittion 端口号：19132
+- Bedrock Edition 端口号：19132
 - Java Edition 端口号：25565
 - [x] 实验性玩法
 - [x] 假日创造者功能
@@ -43,7 +43,7 @@ ZH-Server是一个公益的生存服务器，也是一个以玩家为中心、�
 本服务器为公益服，无收费内容
 
 !!! warning "请注意"
-    进入服务器前您务必阅读 [*游戏环境基础原则*](./gamimg_env.md) 和 [*管理员基础原则*](./op_rules.md) ，避免给他人和自己造成不必要的麻烦。
+    进入服务器前您务必阅读 [*游戏环境基础原则*](./gamimg_env.md) 和 [*管理员基础原则*](./op_rules.md) ，避免给他人和自己造成不必要的麻烦
 
 ## 🎞服务器靓照
 
@@ -68,8 +68,6 @@ ZH-Server是一个公益的生存服务器，也是一个以玩家为中心、�
 ## 其他信息
 
 [*感谢列表*](./gaming_thx.md)
-
-[*ZH-Server资源列表*](./resource.md)
 
 [*黑名单*](./no_play.md)
 
