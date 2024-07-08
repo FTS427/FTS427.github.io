@@ -3,13 +3,9 @@
     <img width="300" src="\assets\ZHS\photos\title.png">
 </div>
 
-# ZH-Server 服务器——保持原生的互通公益生存服务器
+# ZH-Server 服务器——保持原生的公益生存服务器
 
 [![QQ](https://img.shields.io/badge/QQ-836052388-4169E1?style=for-the-badge&logoColor=white)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=89oGlqOoovJVsXx_9cSg3ri8GNXr_rCs&authKey=SxgvNWIiXBx89Lb%2FvXyi2wQtFpzJetKtY44mAe3RfB2PHcdIzYeoP7C3HBjaI3gM&noverify=0&group_code=836052388)
-
-## 服务器当前状态
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="180px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=fts427.top&port=19132&dark=true"></iframe>
 
 ## 何为 ZH-Server?
 
@@ -21,24 +17,63 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 
 `ZH` 是 `Zero Harm` （零伤害）的缩写，我们希望每一位服务器的成员可以做到互帮互助、玩家之间零伤害、零冲突
 
-## 服务器详情信息
+## 原版生存服务器详情信息
 
+- 内部代号：OZB
 - 游戏模式：生存
 - 难度：困难
-- [x] 启用白名单
+- [ ] 启用白名单
 - [ ] 启用正版验证
 - [x] 启用作弊
 - [x] 启用命令方块
 - [ ] 获得成就
-- 版本：1.21.0
+- 客户端需求：1.21.1 基岩版
+- 种子：sbmojang
+- 服务器IP：fts427.top
+- 端口号：19133
+- [ ] 实验性玩法
+- [ ] 假日创造者功能
+- [ ] 行为包 / 模组
+- 存档序号：VI
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="180px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=fts427.top&port=19133&dark=true"></iframe>
+
+## Nukkit 生电服务器详情信息
+
+- 内部代号：ZNK
+- 游戏模式：生存
+- 难度：困难
+- [ ] 启用白名单
+- [ ] 启用正版验证
+- [ ] 启用作弊
+- [ ] 启用命令方块
+- [ ] 获得成就(Xbox)
+- [x] 获得成就(Nukkit)
+- 版本：1.21 至 1.12 的任意基岩版
+- 种子：1145141919180
+- 服务器IP：fts427.top
+- 端口号：19131
+- 存档序号：I (继承 ZHS-IV 存档)
+
+> 本服没法进入末地，所以无法通关
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="180px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=fts427.top&port=19131&dark=true"></iframe>
+
+## Java 服务器详情信息
+
+- 内部代号：ZJE
+- 游戏模式：生存
+- 难度：困难
+- [ ] 启用白名单
+- [ ] 启用正版验证
+- [ ] 启用作弊
+- [ ] 启用命令方块
+- [x] 获得成就
+- 版本：1.21 Java 版
 - 种子：20240629
 - 服务器IP：fts427.top
-- Bedrock Edition 端口号：19132
-- Java Edition 端口号：25565
-- [x] 实验性玩法
-- [x] 假日创造者功能
-- [x] 行为包 / 模组
-- 存档序号：V
+- 端口号：25565
+- 存档序号：I (继承 ZHS-V 存档)
 
 本服务器为公益服，无收费内容
 
@@ -66,6 +101,8 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 > 具体内容请见[*游戏环境基础原则*](./gamimg_env.md)，如果服务器出现以上内容请尽快发送邮件至 *<FTS427@outlook.com>* 联系本服QQ群群主！
 
 ## 其他信息
+
+你是否好奇 fts427.top 下的 19132 端口在干什么？[点击这里](../blog/posts/240708.md) 了解详情
 
 [*感谢列表*](./gaming_thx.md)
 
