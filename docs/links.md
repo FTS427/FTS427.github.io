@@ -22,6 +22,8 @@
 
 [Cascade Kobayashi](https://cascade.moe/)
 
+[mail_set 大佬的铺子](https://blogs.mailset.top/)
+
 ## 其它有趣的项目
 
 [AL-1S（](https://alan-shangmike.github.io/Sping_Aris_github.io/)
