@@ -38,43 +38,6 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="180px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=fts427.top&port=19133&dark=true"></iframe>
 
-## Nukkit 生电服务器详情信息
-
-- 内部代号：ZNK
-- 游戏模式：生存
-- 难度：困难
-- [ ] 启用白名单
-- [ ] 启用正版验证
-- [ ] 启用作弊
-- [ ] 启用命令方块
-- [ ] 获得成就(Xbox)
-- [x] 获得成就(Nukkit)
-- 版本：1.21 至 1.12 的任意基岩版
-- 种子：202406241129
-- 服务器IP：fts427.top
-- 端口号：19131
-- 存档序号：I (继承 ZHS-IV 存档)
-
-> 本服没法进入末地，所以无法通关
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="180px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=fts427.top&port=19131&dark=true"></iframe>
-
-## Java 服务器详情信息
-
-- 内部代号：ZJE
-- 游戏模式：生存
-- 难度：困难
-- [ ] 启用白名单
-- [ ] 启用正版验证
-- [ ] 启用作弊
-- [ ] 启用命令方块
-- [x] 获得成就
-- 版本：1.21 Java 版
-- 种子：20240629
-- 服务器IP：fts427.top
-- 端口号：25565
-- 存档序号：I (继承 ZHS-V 存档)
-
 本服务器为公益服，无收费内容
 
 !!! warning "请注意"
