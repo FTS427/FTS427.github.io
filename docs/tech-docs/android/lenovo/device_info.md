@@ -8,7 +8,7 @@
 - 存储空间: 64GB
 - Ram: 4GB
 - Swap: 2GB
-- System: Android 11
+- Basic System: Android 11
 - Dolby: support
 - GSI: support
 - DSU: support
