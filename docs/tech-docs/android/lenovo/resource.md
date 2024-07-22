@@ -10,14 +10,16 @@
 
 [MTK Client 仓库](https://github.com/bkerler/mtkclient)
 
-## 刷机包
+## 刷机
 
-[X306X Android 11 SP刷机包]()
+[X306X Android 11 SP原厂国际刷机包](https://pan.huang1111.cn/s/qggeXT3)
 
-[X306X Android 10 SP刷机包](https://pan.huang1111.cn/s/Qzz1GIm)
+[X306X Android 10 SP原厂国际刷机包](https://pan.huang1111.cn/s/Qzz1GIm)
 
 [Lineage OS Unofficial](https://ota.vistaslayer.ovh/)
 
-[TWRP Unofficil]()
+[我自己编译的 TWRP](https://github.com/FTS427/twrp_dt_X306F/releases/)
+
+[XDA 大佬的 TWRP](https://github.com/DevZillion/android_device_lenovo_amar/releases)
 
 [Dot OS](https://www.droidontime.com/)
