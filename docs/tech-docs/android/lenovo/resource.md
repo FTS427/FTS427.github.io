@@ -2,11 +2,11 @@
 
 ## 工具
 
-[SP Flash Tool v5]()
+[SP Flash Tool v5](https://pan.huang1111.cn/s/eNNxjfg)
 
-[ADB(Windows)]()
+[ADB(Windows)](https://pan.huang1111.cn/s/vVV5miE)
 
-[MTK 驱动(Windows)]()
+[MTK 驱动(Windows)](https://mtkdriver.com/wp-content/uploads/MTK-Driver-v5.2307.zip)
 
 [MTK Client 仓库](https://github.com/bkerler/mtkclient)
 
