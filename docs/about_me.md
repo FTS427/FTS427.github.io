@@ -68,15 +68,15 @@ Xbox ID: Huang_FTS427
 
 备用开发系统: Windows 10 Work Station
 
-桌面环境: i3wm
+桌面环境: Hyprland
 
-CPU: AMD Athlon II X2 270 @ 3.4GHz
+CPU: AMD Ryzen 5 7600 (12) @ 5.13 GHz
 
-运存: 8GB
+运存: 32GB
 
-Swap: 30GB
+Swap: 64GB
 
-硬盘: 512GB WD
+硬盘: 2TB Lexar
 
 显示器: AOC 1920 x 1080
 
@@ -84,9 +84,7 @@ Swap: 30GB
 
 机型: Lenovo TB-X306FC_PRC
 
-OS: Lenovo 原厂国际版
-
-附加: Magisk 27.0 + LSPosed 1.9.2
+OS: Lineage OS 17.1 Unofficial (Android 10)
 
 CPU: MT6765/MT8768
 
