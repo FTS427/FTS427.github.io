@@ -83,9 +83,11 @@ nav:
       - 前言: tech-docs/android/index.md
       - Lenovo TB-X306FC_PRC: 
         - 设备信息: tech-docs/android/lenovo/device_info.md
+        - 刷机资源: tech-docs/android/lenovo/resource.md
         - 解 BL 锁: tech-docs/android/lenovo/unlock_bl.md
         - 解 BL 锁后干点啥: tech-docs/android/lenovo/after_unlockbl.md
-        - 刷系统: tech-docs/android/lenovo/flash_system.md
+        - 刷 GSI 系统: tech-docs/android/lenovo/flash_gsi_system.md
+        - 刷系统: tech-docs/android/lenovo/flash_stock_system.md
       - OPPO A31t: 
         - 设备信息: tech-docs/android/oppo/device_info.md
         - 刷机: tech-docs/android/oppo/flash_system.md
