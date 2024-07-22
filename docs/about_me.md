@@ -66,7 +66,7 @@ Xbox ID: Huang_FTS427
 
 主力系统: Arch Linux
 
-备用开发系统: Windows 10 Work Station
+备用开发系统: Windows 10 Professional Workstation
 
 桌面环境: Hyprland
 
