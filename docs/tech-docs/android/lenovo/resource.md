@@ -4,20 +4,20 @@
 
 [SP Flash Tool v5]()
 
-[ADB]()
+[ADB(Windows)]()
 
-[MTK 驱动]()
+[MTK 驱动(Windows)]()
 
-[MTK Client 仓库]()
+[MTK Client 仓库](https://github.com/bkerler/mtkclient)
 
 ## 刷机包
 
 [X306X Android 11 SP刷机包]()
 
-[X306X Android 10 SP刷机包]()
+[X306X Android 10 SP刷机包](https://pan.huang1111.cn/s/Qzz1GIm)
 
-[Lineage OS Unofficial]()
-
-[Dot OS]()
+[Lineage OS Unofficial](https://ota.vistaslayer.ovh/)
 
 [TWRP Unofficil]()
+
+[Dot OS](https://www.droidontime.com/)
