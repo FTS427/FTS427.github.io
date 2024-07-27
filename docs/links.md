@@ -4,7 +4,7 @@
 
 [`ECPPH` 文档](https://quantumls-studio.github.io/ECPPH/)
 
-[`ML` 文档](https://www.blessingta.link/zhCN/)
+[`ML` 文档](https://wiki.blessing-studio.cn/)
 
 [`BA` 剧情站](https://blue-archive.io/)
 
