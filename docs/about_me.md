@@ -14,7 +14,7 @@ comments: true
 
 > 我先声明：我不属于 `彩旗群体`(`LGBTQ+群体`)，但是我尊重 ta 们，我希望你也可以尊重这个群体
 
-你可以把我当作男生，也可以当做女生，或者无性别，我不在乎这些，如果你想用第三人称指代我，可以用 `he`(`他`) 来指代我
+你可以把我当作男生，也可以当做女生，或者无性别，我不在乎这些，如果你想用第三人称指代我，可以用 `he`(`他`) 来指代我，当然，你如果想用 `she`(`她`) 或者 `it`(`它`) 指代我也可以
 
 是个宅，平时不太喜欢出门，但是我其实也很喜欢大自然
 
@@ -36,7 +36,7 @@ comments: true
 
 我平时也打游戏，不过不会玩太长时间，很少玩多人游戏
 
-Minecraft Bedrock, Minecraft Java, Undertale, Soul Knight, BlueArchive(国际服), 浮岛物语
+Minecraft Bedrock, Minecraft Java, Undertale, Soul Knight, Blue Archive(国际服), 浮岛物语
 
 > 我是 Minecraft 正版玩家
 
@@ -62,7 +62,7 @@ Xbox ID: Huang_FTS427
 
 ### 计算机
 
-![screenshot](assets/my_computer_amd.png)
+![screenshot](assets/my_computer.png)
 
 主力系统: Arch Linux
 
