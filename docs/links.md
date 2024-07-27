@@ -10,7 +10,7 @@
 
 [`Y.Liu` 的工具文档小站](https://yliu-fe.github.io/)
 
-[MM 喵了个 的高中笔记站](https://wiki.mimiaomc.top/)
+[MM 喵了个 的高中笔记站](https://clsnte.top/)
 
 ## 朋友们的小站
 
