@@ -8,7 +8,7 @@ BL 在默认情况下是被厂商上锁的，手机厂商基本不会让你随�
 
 在 BL 解锁后，设备开机就不会检查当前的镜像，直接开机
 
-当然，具体详情可以自己 [Bing](bing.com) 一下
+当然，具体详情可以自己 [Bing](https://www.bing.com) 一下
 
 ## 准备
 
@@ -86,4 +86,4 @@ sudo mtk_gui
 
 ## 解锁后干点啥
 
-在设备已经解锁后，您就可以对您的设备进行随心所欲的调整了，比如说：[刷 `Magisk`](./after_unlockbl.md) 、[刷系统](./flash_system.md) 等等
+在设备已经解锁后，您就可以对您的设备进行随心所欲的调整了，比如说：[刷 `Magisk`](./after_unlockbl.md) 、[刷系统](./flash_gsi_system.md) 等等
