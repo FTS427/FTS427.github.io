@@ -5,10 +5,14 @@
 - Device name: Lenovo Tab M10 HD
 - Device id: TB-X306FC_PRC
 - CPU: MTK MT8768t ( MTK Helio P22t )
-- 存储空间: 64GB
-- Ram: 4GB
-- Swap: 2GB
+- ROM: 64GB
+- RAM: 4GB
+- Swap: 0GB
 - Basic System: Android 11
 - Dolby: support
 - GSI: support
 - DSU: support
+
+机型兼容 TB-X306F, TB-X306X, TB-X306FC
+
+底层兼容 amar, amar_row, amar_row_lte

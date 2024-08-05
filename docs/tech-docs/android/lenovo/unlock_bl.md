@@ -2,9 +2,9 @@
 
 ## 何为 BL ？
 
-BL 是 `bootloader` 的缩写，译为 `镜像检查引导工具` ，就是用来检查当前设备的镜像签名是否正确，如果正确，则会继续开机；否则会报错，自动关机。
+BL 是 `bootloader` 的缩写，译为 `镜像检查引导工具` ，就是用来检查当前设备的镜像签名是否正确，如果正确，则会继续开机；否则会报错，自动关机
 
-BL 在默认情况下是被厂商上锁的，手机厂商基本不会让你随意解锁（ Google 的 Pixel 是个例外）
+BL 在默认情况下为了安全起见是被厂商上锁的，大部分比较知名的手机厂商基本不会让你随意解锁（ Google 的 Pixel 是个例外）
 
 在 BL 解锁后，设备开机就不会检查当前的镜像，直接开机
 
@@ -20,8 +20,10 @@ BL 在默认情况下是被厂商上锁的，手机厂商基本不会让你随�
 
 ### 联想国际版设备解锁方案
 
+> 此方案只适用于部分国际版, 请具体情况具体分析
+
 1. 打开 “设置” ，找到 “系统” > “关于平板电脑” > “版本号” ，多次点击 “ 版本号” 直到出现提示 “您已处于开发者模式，无需进行此操作。”
-2. 打开 “设置” ，找到 “系统” > “开发者选项” ，找到 “OEM解锁” 选项，打开此选项
+2. 打开 “设置” ，找到 “系统” > “开发者选项” ，找到 “OEM 解锁” 选项，打开此选项
 3. 将设备重启至 `fastboot` [^ADB命令]并使用 **数据线** 连接至电脑，在计算机的终端中键入 `fastboot devices` 查看设备已经正常与计算机连接
 4. 一切准备就绪，键入 `fastboot flashing unlock` 解锁，这时设备上会出现询问是否确认要解锁设备，按照询问内容，按下设备的 `音量-` 确认解锁，按下 `音量+` 取消解锁
 
@@ -35,14 +37,14 @@ BL 在默认情况下是被厂商上锁的，手机厂商基本不会让你随�
 
 > [项目地址](https://github.com/bkerler/mtkclient)，不要忘记给一个星标！
 
-Arch Linux 用户可以在 AUR 上找到 ta ，然后可以用 AUR 助手 进行安装，当然您也可以用别的办法安装
+Arch Linux 用户可以在 AUR 上找到 ta ，然后可以用 AUR 助手 进行安装，当然您也可以用别的办法安装 (此工具在 Wayland 协议的桌面环境下会出现未知故障, 你可以选择在 X11 协议下的桌面环境下进行操作)
 
 ```zsh
 paru -S mtkclient
 ```
 
 !!! warning "请注意"
-    在安装完成后一定一定一定要重启您的计算机设备，否则 `MTKClient` 将无法正常工作！
+    在安装完成后一定一定一定要重启您的计算机设备，否则此工具将无法正常工作！
 
 ## 开始解锁
 
@@ -64,11 +66,13 @@ sudo mtk da seccfg unlock
 
 如果看到最后返回 `Done!` ，恭喜你！成功了！什么？没有返回？尝试重试或放弃
 
-最后，重启设备
+最后，重置设备
 
 ```zsh
 sudo mtk reset
 ```
+
+现在请拔下设备数据线, 按住电源键进行开机, 如果屏幕上出现 `Orange State. Your device has been unlocked and can't be trusted. Your device will boot in 5 seconds.` 两行黑底白字的内容, 请不必担心, 这是设备在告诉你: BL 已成功被解锁
 
 ### 图形界面操作
 
@@ -82,8 +86,8 @@ sudo mtk_gui
 
 设备解锁后在每次开机时会出现 `Orange State. Your device has been unlocked and can't be trusted. Your device will boot in 5 seconds.` 的字样，不用担心，也不用理睬，这是联发科设备解锁后的正常现象，我目前未找到有关于 关掉联发科解锁提示 这一类的方案
 
-设备解锁后也会出现 `电源` + `音量+` 无法正常进入 `recovery` 模式的情况，但是可以通过 `fastboot reboot recovery` 或 `adb reboot recovery` 进入 `recovery` 模式，我目前也未找到相关解决方案
+设备解锁后也可能会出现 `电源` + `音量+` 无法正常进入 `recovery` 模式的情况，但是可以在 `fastboot` 模式下通过 `fastboot reboot recovery` 命令或在设备开机状态通过 `adb reboot recovery` 命令进入 `recovery` 模式，我目前也未找到解决此问题的相关方案
 
 ## 解锁后干点啥
 
-在设备已经解锁后，您就可以对您的设备进行随心所欲的调整了，比如说：[刷 `Magisk`](./after_unlockbl.md) 、[刷系统](./flash_gsi_system.md) 等等
+在设备已经解锁后，您就可以对您的设备进行随心所欲的调整了，比如说：[刷 `Magisk`](./after_unlockbl.md) 、[刷入 GSI 系统](./flash_gsi_system.md) 等等
