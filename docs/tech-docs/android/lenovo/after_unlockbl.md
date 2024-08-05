@@ -24,7 +24,7 @@
     fastboot flash boot 打包好的boot文件路径
     ```
 
-    !!! warning "警告"
+    !!! danger "警告"
         刷入后请不要马上重启！否则会陷入反复重启！
 
 5. 刷入原厂的 vbmeta 文件并关闭 avb
@@ -88,7 +88,7 @@
 
 5. 拉取提取好的分区镜像文件
 
-   先退出 shell
+    先退出 shell
 
     ```shell
     exit

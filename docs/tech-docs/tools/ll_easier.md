@@ -46,7 +46,8 @@
 
 先前往 [这里](https://www.minecraft.net/zh-hans/download/server/bedrock) 下载 所需版本 的 BDS 压缩包
 
-> 如果发现版本在官方界面下载的与 Git Action 已经打包好的所需版本不一致，可以前往 [Minecraft Wiki](https://zh.minecraft.wiki/) 中查找所需版本，并下载服务器压缩文件
+??? question "官方网站中的 BDS 版本和打包出来的需求版本不一致怎么办"
+    如果发现版本在官方界面下载的与 Git Action 已经打包好的所需版本不一致，可以前往 [Minecraft Wiki](https://zh.minecraft.wiki/) 中查找所需版本，下载 BDS
 
 将下载好的 BDS 压缩文件解压在一个用于存储服务器文件的安全位置（以下简称 `BDS 根目录` ）
 
@@ -58,14 +59,15 @@
 
 ## `Run workflow` 页中选项解释
 
-| 名称          | 解释                      | 默认值        |
+| 名称          | 解释                       | 默认值        |
 | ------------- | ------------------------- | ------------- |
-| `LL_VER`      | `LeviLamina` 所需安装版本 | 0.1.0         |
-| `LSE`         | 是否安装 `LSE`            | false         |
-| `RUNTIME`     | 是否包括`LeviLamina`所需的C++运行时| false|
+| `LL_VER`      | `LeviLamina` 所需安装版本   | 0.1.0         |
+| `LSE`         | 是否安装 `LSE`             | false         |
+| `RUNTIME`     | 是否包括`LeviLamina`所需的 C++ 运行时| false|
 | `SCRIPTS`     | 是否运行仓库目录下的 `user_scripts.bat`|false|
 
-> `SCRIPTS` 功能未经测试，出现任何问题后果自负！
+!!! exaple "实验性"
+    `SCRIPTS` 功能未经测试，出现任何问题后果自负！
 
 ## 工作原理
 

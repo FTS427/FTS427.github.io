@@ -39,7 +39,7 @@ Dot OS 5, Lineage OS 18 & 19, PixelExpenrience Android 13
 - 有时候会莫名其妙的卡顿
 - 设备的红色指示灯一直常亮
 
-!!! warn "请注意"
+!!! warning "请注意"
     TB-X306FC 这台设备不知道因为什么，部分 Android 13 的 `GSI` 刷入后会出现无法连接网络的情况，所以建议选择 Android 11, 12, 12.1 的 `GSI` （Android 14 的会出现耗电高，温度高的情况）
 
 ## 刷入

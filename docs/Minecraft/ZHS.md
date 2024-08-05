@@ -75,7 +75,7 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 
 ### ZHS-IV
 
-> 由于是采用的 `Nukkit-MOT` 作为服务器，所以存档是 Java 版的格式，如有需求请自行转换
+> 由于是采用的 `Nukkit-MOT` 作为服务器，所以存档是 Nukkit 样式的存档，如有需求请自行转换
 
 [点我下载](https://cncncloud.com/s/yP5KRfz)
 
@@ -83,7 +83,7 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 
 [点我下载](https://cncncloud.com/s/xk5JPu4)
 
-### ZHS-II 存档丢失无法找回，我们对此感到抱歉
+### ZHS-II 存档丢失无法找回，我们对此深感抱歉
 
 ### ZHS-I 已存档
 

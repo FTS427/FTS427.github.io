@@ -12,7 +12,7 @@ Huang_FTS427, ZTT2008917, ReturnZeroGirl
 
 因为服务器的 `allow-cheats` 值为 `false` ，所以OP的权限并没有什么用
 
-### 如果 `allow-cheats` 值为 `true` ，OP们可以干什么？（虽然我们不期待这样）
+### 如果 `allow-cheats` 值为 `true` ，OP 们可以干什么？（虽然我们不期待这样）
 
 - 使用命令恶意 击杀/生成 实体/玩家：false （当有**极端Bug生物**、恶意玩家时，可以为 `true` ）
 - 使用命令胡乱 添加/清除 自己/他人 的Buff：false
@@ -23,7 +23,7 @@ Huang_FTS427, ZTT2008917, ReturnZeroGirl
 - 封禁玩家：false（当出现 *游戏环境基础原则* 中描述的情况时，可以为 `true` ）
 - 踢出玩家：false（当出现 *游戏环境基础原则* 中描述的情况时，可以为 `true` ）
 
-## 我怎样加入OP列表？
+## 我怎样加入 OP 列表？
 
 很抱歉，我不建议这么做，但是您如果实在认为您有可以管理服务器的能力，请先发送请求邮件至 -> <FTS427@outlook.com> ，如果审查通过，我们将欢迎您！
 

@@ -4,11 +4,9 @@
 
 如果您发现某处有些问题或者不理解，可以向本仓库的 [`Issues`](https://github.com/FTS427/FTS427.github.io/issues) 或 [`Discussion`](https://github.com/FTS427/FTS427.github.io/discussions) 中提出您的疑惑；当然上交 [`PR`](https://github.com/FTS427/FTS427.github.io/pulls) 对文档进行修正也是欢迎的
 
-（感觉这个小站不错可以点一个 `star` 吗？感谢您的支持！）
-
 本站使用 MIT 开源协议
 
-```text
+```text title="MIT License"
 MIT License
 
 Copyright (c) 2023 Huang FTS427
@@ -33,3 +31,6 @@ SOFTWARE.
 ```
 
 [本小站感谢以下成员和项目](./thx.md)
+
+??? note "笔者的话"
+    感觉这个小站不错可以点一个 `star` 吗？感谢您的支持！
