@@ -13,9 +13,7 @@ theme:
     - search.suggest
     - search.highlight
     - navigation.tabs
-    - navigation.tabs.sticky
     - header.autohide
-    - navigation.footer
   icon: 
     repo: fontawesome/brands/git-alt
     edit: material/pencil 
@@ -25,32 +23,32 @@ theme:
   palette:
     # Light mode
     - scheme: default
-      primary: teal
-      accent: cyan
+      primary: custom
+      accent: custom
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-sunny
         name: Dark mode
     # Dark mode
     - scheme: slate
-      primary: teal
-      accent: cyan
+      primary: custom
+      accent: custom
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-night
         name: Light mode
-  extra:
-plugins: 
+extra:
+  plugins: 
   - search
-  - blog
+  - blog:
+    authors_file: "{blog}/.authors.yml"
+extra_css:
+  - stylesheets/extra.css
+
 markdown_extensions:
   - admonition
-  - codehilite:
-      guess_lang: true
-      linenums: true
   - toc:
       permalink: true
   - footnotes
-  - pymdownx.betterem:
-      smart_enable: all
+  - pymdownx.betterem
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
@@ -58,14 +56,18 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences
-  - pymdownx.tasklist
   - pymdownx.tilde
+  - pymdownx.snippets
+  - pymdownx.highlight:
+      anchor_linenums: true
+      auto_title: true
+      linenums: true
 
 nav:
   - 欢迎！: index.md
   - 关于我: about_me.md
   - 感谢列表: thx.md
-  - Minecraft服务器: 
+  - Minecraft 服务器: 
     - ZH-Server: Minecraft/ZHS.md
     - Zn-Server（已终结）: Minecraft/ZnS.md
     - 服务器贡献人员: Minecraft/gaming_thx.md
@@ -73,12 +75,13 @@ nav:
     - 管理员注意事项: Minecraft/op_rules.md
     - 游戏黑名单: Minecraft/no_play.md
   - 友链: links.md
-  - 小记: blog/index.md
+  - 小记: 
+    - blog/index.md
   - 技术文档: 
     - 前言: tech-docs/index.md
-    - Archlinux相关: 
-      - Archlinux酱: tech-docs/archlinux/archlinux_info.md
-      - Archlinux安装: tech-docs/archlinux/archlinux_install.md
+    - Archlinux 相关: 
+      - Archlinux 酱: tech-docs/archlinux/archlinux_info.md
+      - Archlinux 安装: tech-docs/archlinux/archlinux_install.md
     - Android相关: 
       - 前言: tech-docs/android/index.md
       - Lenovo TB-X306FC_PRC: 
