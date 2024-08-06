@@ -35,11 +35,11 @@ theme:
       toggle:
         icon: material/weather-night
         name: Light mode
-extra:
-  plugins: 
+
+plugins: 
   - search
   - blog:
-    authors_file: "{blog}/.authors.yml"
+      authors_file: "{blog}/.authors.yml"
 extra_css:
   - stylesheets/extra.css
 
