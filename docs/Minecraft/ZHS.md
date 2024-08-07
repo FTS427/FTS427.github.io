@@ -19,7 +19,6 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 
 ## 原版生存服务器详情信息
 
-- 内部代号：OZB
 - 游戏模式：生存
 - 难度：困难
 - [ ] 启用白名单
@@ -27,13 +26,14 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 - [x] 启用作弊
 - [x] 启用命令方块
 - [ ] 获得成就
-- 客户端需求：1.21.1 基岩版
+- 客户端需求：1.21.1.03 基岩版
 - 种子：sbmojang
 - 服务器IP：fts427.top
-- 端口号：19133
+- 端口号：19132
 - [ ] 实验性玩法
 - [ ] 假日创造者功能
 - [ ] 行为包 / 模组
+- [ ] 资源包
 - 存档序号：VI
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="180px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=fts427.top&port=19133&dark=true"></iframe>
@@ -53,9 +53,9 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 
 > 以下名称均为游戏内名称
 
-腐竹：Huang_FTS427,  ZTT2008917
+腐竹：Huang_FTS427,  ZTT2008917(ZTT20080917)
 
-管理：Huang_FTS427,  ZTT2008917,  RetrunZeroGirl
+管理：Huang_FTS427,  ZTT2008917(ZTT20080917),  SYSTEMGirl(RetrunZeroGirl)
 
 ## 本服保证绝不会出现以下内容
 
@@ -65,7 +65,7 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 
 ## 其他信息
 
-你是否好奇 fts427.top 下的 19132 端口在干什么？[点击这里](../blog/posts/240708.md) 了解详情
+~~ 你是否好奇 fts427.top 下的 19132 端口在干什么？[点击这里](../blog/posts/240708.md) 了解详情 ~~
 
 [*感谢列表*](./gaming_thx.md)
 
