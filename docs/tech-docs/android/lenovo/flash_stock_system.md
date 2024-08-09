@@ -24,6 +24,9 @@
 
 ## 开始刷入
 
+!!! info "注意"
+    以下的刷机步骤在 带有 ADB 的 Windows10 环境下进行，在其他平台上可能有所不一样
+
 ### 相关信息
 
 !!! warning "警告"
@@ -39,10 +42,38 @@ Lineage OS 17.1 Android 10 Kernel: linux 4.9
 
 首先我们需要确保设备现在运行的系统是 Android 10，如果是 Android 10 你可以直接跳过这一步，如果不是，请乖乖完成这一步
 
+首先在 *[相关刷机资源](./resource.md)* 中找到 `X306X Android 10 SP原厂国际刷机包` 和 `SP Flash Tool v5` 两样内容，下载至您的计算机上的任意位置，并将其解压（尽量不要是带有中文的路径）
+
+确保已经备份完毕后，将设备关机
+
+打开解压后的 `SP Flash Tool v5` 的文件目录下，找到带有 `SP Flash Tool`字样的可执行文件，打开
+
 ### 刷入 TWRP
+
+同样的，下载 `XDA 大佬的 TWRP` ，之后放在一个好找到的位置
+
+将设备通过 `adb reboot bootloader` 命令或按下 `电源` 与 `音量-` 键等方式进入 `fastboot` 模式
+
+然后通过 `fastboot` 命令刷入
+
+```pwsh
+fastboot flash recovery 下载好的 TWRP 位置
+```
+
+然后关掉 avb
+
+```pwsh
+fastboot vbmeta vbmeta文件路径 --disable-verification
+```
 
 ### 下载并调整刷机包
 
 ### 刷入
 
 ### 后期注意事项
+
+刷入后请谨慎刷 magisk ，有可能会反复重启！
+
+视频播放不了可以关掉 hw 层
+
+部分功能不正常可以试着关掉 SELinux

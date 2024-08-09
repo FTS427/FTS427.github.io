@@ -20,6 +20,10 @@
 
 [我自己编译的 TWRP](https://github.com/FTS427/twrp_dt_X306F/releases/)
 
+> data 无法解密，功能残缺
+
 [XDA 大佬的 TWRP](https://github.com/DevZillion/android_device_lenovo_amar/releases)
+
+> adb sideload 默认不可用，data 无法解密
 
 [Dot OS](https://www.droidontime.com/)
