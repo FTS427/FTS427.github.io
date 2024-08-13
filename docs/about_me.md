@@ -57,6 +57,8 @@ E-mail:
 
 Xbox ID: Huang_FTS427
 
+Skype: <FTS427@outlook.com>
+
 [我的B站空间](https://space.bilibili.com/1978537245?spm_id_from=333.1007.0.0)
 
 ## 开发环境
@@ -85,7 +87,7 @@ Swap: 64GB
 
 机型: Lenovo TB-X306FC_PRC
 
-OS: Lineage OS 17.1 Unofficial (Android 10)
+OS: crDroid 7.16(Android 11 GSI)
 
 CPU: MT6765/MT8768
 
