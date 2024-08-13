@@ -21,22 +21,23 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 
 - 游戏模式：生存
 - 难度：困难
-- [ ] 启用白名单
-- [ ] 启用正版验证
-- [x] 启用作弊
-- [x] 启用命令方块
-- [ ] 获得成就
+- 启用白名单: 否
+- 启用正版验证: 否
+- 启用作弊: 是
+- 启用命令方块: 是
+- 获得成就: 否
 - 客户端需求：1.21.1.03 基岩版
 - 种子：sbmojang
 - 服务器IP：fts427.top
 - 端口号：19132
-- [ ] 实验性玩法
-- [ ] 假日创造者功能
-- [ ] 行为包 / 模组
-- [ ] 资源包
+- 启用实验性玩法: 否
+- 启用假日创造者功能: 否
+- 启用行为包 / 模组: 否
+- 启用资源包: 否
+- 启用反作弊: 否
 - 存档序号：VI
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="180px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=fts427.top&port=19133&dark=true"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="170px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=fts427.top&port=19132&dark=true&join_open=true"></iframe>
 
 本服务器为公益服，无收费内容
 
@@ -55,7 +56,7 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 
 腐竹：Huang_FTS427,  ZTT2008917(ZTT20080917)
 
-管理：Huang_FTS427,  ZTT2008917(ZTT20080917),  SYSTEMGirl(RetrunZeroGirl)
+管理：Huang_FTS427,  ZTT2008917(ZTT20080917),  SYSTEMGirl18609(RetrunZeroGirl)
 
 ## 本服保证绝不会出现以下内容
 
@@ -77,14 +78,14 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 
 > 由于是采用的 `Nukkit-MOT` 作为服务器，所以存档是 Nukkit 样式的存档，如有需求请自行转换
 
-[点我下载](https://cncncloud.com/s/yP5KRfz)
+[点我下载](https://pan.huang1111.cn/s/vVKvYsE)
 
 ### ZHS-III
 
-[点我下载](https://cncncloud.com/s/xk5JPu4)
+[点我下载](https://pan.huang1111.cn/s/eNGe5Hg)
 
 ### ZHS-II 存档丢失无法找回，我们对此深感抱歉
 
 ### ZHS-I 已存档
 
-[点我下载](https://pan.huang1111.cn/s/W4Mkc3)
+[点我下载](https://pan.huang1111.cn/s/3eMRqim)
