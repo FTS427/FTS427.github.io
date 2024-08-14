@@ -2,9 +2,9 @@
 
 ## 引入
 
-如果你是一个开 基岩版 服务器很久的服主，你多多少少会听说过一个神奇的东西———— LiteLoader ，这是一个可以让你的服务器 绚丽多彩、玩法丰富、禁止作弊 的插件加载器，安装仅仅需要把对应版本号的一些 DLL 和一个 PeEditor 放在 BDS 根目录里，之后注入一下即可
+如果你是一个开 基岩版 服务器很久的服主，你多多少少会听说过一个神奇的东西———— LiteLoaderBDS ，这是一个可以让你的服务器 绚丽多彩、玩法丰富、禁止作弊 的插件加载器，安装仅仅需要把对应版本号的一些 DLL 和一个 PeEditor 放在 BDS 根目录里，之后注入一下即可
 
-但是随着 LiteLoader 的不断发展，为了提升性能和简易性， LiteLoader 更名为 LeviLamina 开始重新发展
+但是随着 LiteLoaderBDS 的不断发展，为了提升性能和简易性， LiteLoaderBDS 更名为 LeviLamina 开始重新发展
 
 可是，新的 LeviLamina 安装方法看起来令人困扰，所以有了这个 个人 项目———— LL_Easier
 
@@ -51,7 +51,7 @@
 
 将下载好的 BDS 压缩文件解压在一个用于存储服务器文件的安全位置（以下简称 `BDS 根目录` ）
 
-然后将 `Releases` 的压缩包文件解压在任意一个地方，然后将解压出的 `llbds` 字样文件夹里的东西全部移动至 `BDS 根目录`
+然后将 `Releases` 的压缩包文件解压在任意一个地方，然后将解压出的 `ll` 字样文件夹里的东西全部移动至 `BDS 根目录`
 
 双击运行 `PeEditor.exe` ，等待 `LeviLamina` 注入完成
 
@@ -66,8 +66,31 @@
 | `RUNTIME`     | 是否包括`LeviLamina`所需的 C++ 运行时| false|
 | `SCRIPTS`     | 是否运行仓库目录下的 `user_scripts.bat`|false|
 
-!!! exaple "实验性"
-    `SCRIPTS` 功能未经测试，出现任何问题后果自负！
+### 安装 `LSE` 包括了哪些脚本支持包
+
+QuickJs, Lua, NodeJS, Python
+
+### 编写 user_scripts.bat -- 提前准备好你所需要的环境
+
+默认的 user_scripts.bat 会包含一行安装 GMLIB 的示例
+
+```cmd
+lip install -y github.com/GroupMountain/GMLIB
+```
+
+#### 如何编写？
+
+很简单，其实就是 bat 脚本的编写，需要你会 cmd 语法和命令
+
+#### 注意事项
+
+如果其中想使用 lip 安装别的包，请一定写成这个样式，否则将可能出现故障
+
+```cmd
+lip install -y 包的url
+```
+
+其次，请不要更改此文件的名称，否则将会出现问题
 
 ## 工作原理
 
@@ -82,3 +105,5 @@
 [镜像站1](https://moeyy.cn/gh-proxy)
 
 [镜像站2](https://gh.lldc.top)
+
+当然，你如果想把这个项目运用到你的 个人/社团/企业 项目中，这也是被许可的；不过，我请您严格遵守此项目的开源协议！
