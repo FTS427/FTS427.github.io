@@ -74,7 +74,7 @@ QuickJs, Lua, NodeJS, Python
 
 默认的 user_scripts.bat 会包含一行安装 GMLIB 的示例
 
-```cmd
+```text title="user_scripts.bat"
 lip install -y github.com/GroupMountain/GMLIB
 ```
 
@@ -86,7 +86,7 @@ lip install -y github.com/GroupMountain/GMLIB
 
 如果其中想使用 lip 安装别的包，请一定写成这个样式，否则将可能出现故障
 
-```cmd
+```text title="user_scripts.bat"
 lip install -y 包的url
 ```
 
@@ -107,3 +107,7 @@ lip install -y 包的url
 [镜像站2](https://gh.lldc.top)
 
 当然，你如果想把这个项目运用到你的 个人/社团/企业 项目中，这也是被许可的；不过，我请您严格遵守此项目的开源协议！
+
+## 感谢
+
+很感谢 [Litezero](https://github.com/Litezero) 大佬贡献的 auto 自动更新版本 & 检测对应 BDS 版本功能！
