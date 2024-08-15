@@ -42,6 +42,26 @@
 
 填写好后，点击绿色的 `Run workflow` 按钮，再等个一杯白开水的功夫你就可以去 `Releases` 里找到期待中的 `ll_ll版本号_ll所需bds版本号.zip` 啦！
 
+### Auto 自动构建
+
+在创建仓库时注意要选择 包含所有分支 选项
+
+之后把分支切换为 auto 分支，找到 `auto_pack_config.json` 文件，打开，进行编辑，最后保存， Git Action 会自动打包
+
+#### auto_pack_config.json 解释
+
+```json title="auto_pack_config.json"
+[
+    {
+        "LeviLaminaVersion": "0.13.5",  // 要打包的 LeviLamina 的版本号，如果填写为 "latest" 则会自动打包最新版本
+        "includeLSE": false,  // 是否开启 LSE
+        "includeRuntime": false,  // 是否包含适用于 LeviLamina 的 C++ Runtime
+        "useUserScripts": false  // 是否启用 user_scripts.ps1 功能
+        // true -> 开启， false -> 关闭
+    }
+]
+```
+
 ### 安装 LeviLamina
 
 先前往 [这里](https://www.minecraft.net/zh-hans/download/server/bedrock) 下载 所需版本 的 BDS 压缩包
@@ -70,11 +90,11 @@
 
 QuickJs, Lua, NodeJS, Python
 
-### 编写 user_scripts.bat -- 提前准备好你所需要的环境
+### 编写 user_scripts.ps1 -- 提前准备好你所需要的环境
 
-默认的 user_scripts.bat 会包含一行安装 GMLIB 的示例
+默认的 user_scripts.ps1 会包含一行安装 GMLIB 的示例
 
-```text title="user_scripts.bat"
+```text title="user_scripts.ps1"
 lip install -y github.com/GroupMountain/GMLIB
 ```
 
@@ -86,7 +106,7 @@ lip install -y github.com/GroupMountain/GMLIB
 
 如果其中想使用 lip 安装别的包，请一定写成这个样式，否则将可能出现故障
 
-```text title="user_scripts.bat"
+```text title="user_scripts.ps1"
 lip install -y 包的url
 ```
 
@@ -111,3 +131,5 @@ lip install -y 包的url
 ## 感谢
 
 很感谢 [Litezero](https://github.com/Litezero) 大佬贡献的 auto 自动更新版本 & 检测对应 BDS 版本功能！
+
+很感谢 [ReturnZeroGirl](https://github.com/ReturnZeroGirl) 大佬提供的 py 脚本进行检测 BDS 版本
