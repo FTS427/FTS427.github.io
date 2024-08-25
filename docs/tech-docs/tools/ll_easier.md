@@ -77,9 +77,9 @@
 
 然后将 `Releases` 的压缩包文件解压在任意一个地方，然后将解压出的 `ll` 字样文件夹里的东西全部移动至 `BDS 根目录`
 
-如果之前没有安装msvc2015运行库，请先安装运行库，本项目支持打包运行库安装程序进入压缩包ovo
+如果之前没有安装 msvc2015 运行库，请先安装运行库，本项目支持打包运行库安装程序进入压缩包
 
-在确保bds版本和ll版本匹配的情况下双击运行 `PeEditor.exe` ，等待 `LeviLamina` 注入完成
+在确保 BDS 版本和 LL 版本匹配的情况下双击运行 `PeEditor.exe` ，等待 `LeviLamina` 注入完成
 
 最后，双击注入完成的 `bedrock_server_mod.exe`，成功开服！
 
@@ -90,7 +90,7 @@
 | `LL_VER`      | `LeviLamina` 所需安装版本   | 0.1.0         |
 | `LSE`         | 是否安装 `LSE`             | false         |
 | `RUNTIME`     | 是否包括`LeviLamina`所需的 C++ 运行时| false|
-| `SCRIPTS`     | 是否运行仓库目录下的 `user_scripts.bat`|false|
+| `SCRIPTS`     | 是否运行仓库目录下的 `scripts/user_scripts.ps1`|false|
 
 ### 安装 `LSE` 包括了哪些脚本支持包
 
@@ -98,7 +98,7 @@ QuickJs, Lua, NodeJS, Python
 
 ### 编写 user_scripts.ps1 -- 提前准备好你所需要的环境
 
-默认的 user_scripts.ps1 会包含一行安装 最新版GMLIB 的示例
+默认的 user_scripts.ps1 会包含一行安装最新版 GMLIB 的示例
 
 ```text title="user_scripts.ps1"
 lip install -y github.com/GroupMountain/GMLIB
@@ -118,21 +118,19 @@ lip install -y 包的url
 
 其次，请不要更改此文件的名称，否则将会出现问题
 
-~~action:lip好像睡着了~~
-
 ## 工作原理
 
 在 Git Action 的服务器上先安装 lip ，之后利用 Git Action 的服务器 “网速快” 的 “特性”，用 lip 安装 LeviLamina 之类，安装完成后再将其文件压缩并扔在 `Releases` 中
 
-#### 已知的问题
+## 已知的问题
 
-在打包旧版ll选择附带lse的时，会错误的打包最新版本的lse，这可能会带来一系列问题 ~~正在思考解决方案咕~~
+在打包 LL 时选择附带 LSE ，会一律打包为最新版本的 LSE ，这可能会带来一些问题 ~~正在思考解决方案咕~~
 
 ## Bug 反馈和建议?
 
 提在 [Issues](https://github.com/FTS427/ll_easier/issues) 里，或交 [PR](https://github.com/FTS427/ll_easier/pulls)
 
-请注意，ll和lse的问题请不要投递到这里@_@
+!!!note "请注意，LL 和 LSE 的问题请不要投递到这里"
 
 什么？你说从 `Releases` 中下载更慢？可以用一些镜像站嘛～
 
@@ -148,4 +146,4 @@ lip install -y 包的url
 
 很感谢 [ReturnZeroGirl](https://github.com/ReturnZeroGirl) 大佬提供的 py 脚本进行检测 BDS 版本
 
-很感谢n15421对项目进行没用的优化
+很感谢 [n15421](https://github.com/xzfg-n15421) 对项目进行优化
