@@ -69,9 +69,9 @@
 ??? question "官方网站中的 BDS 版本和打包出来的需求版本不一致怎么办"
     如果发现版本在官方界面下载的与 Git Action 已经打包好的所需版本不一致，可以前往 [Minecraft Wiki](https://zh.minecraft.wiki/) 中查找所需版本，下载 BDS，~~或者修改官网下载链接对应的版本号~~
 
-    格式： https://minecraft.azureedge.net/bin-win/bedrock-server- 版本 .zip
+    格式： https://minecraft.azureedge.net/bin-win/bedrock-server-版本.zip
     
-    举个栗子： `https://minecraft.azureedge.net/bin-win/bedrock-server-1.21.20.03.zip`
+    举个栗子： https://minecraft.azureedge.net/bin-win/bedrock-server-1.21.20.03.zip`
 
 将下载好的 BDS 压缩文件解压在一个用于存储服务器文件的安全位置（以下简称 `BDS 根目录` ）
 
