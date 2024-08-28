@@ -69,17 +69,17 @@
 ??? question "官方网站中的 BDS 版本和打包出来的需求版本不一致怎么办"
     如果发现版本在官方界面下载的与 Git Action 已经打包好的所需版本不一致，可以前往 [Minecraft Wiki](https://zh.minecraft.wiki/) 中查找所需版本，下载 BDS，~~或者修改官网下载链接对应的版本号~~
 
-    格式：https://minecraft.azureedge.net/bin-win/bedrock-server-版本.zip
+    格式： https://minecraft.azureedge.net/bin-win/bedrock-server- 版本 .zip
     
-    举个栗子：`https://minecraft.azureedge.net/bin-win/bedrock-server-1.21.20.03.zip`
+    举个栗子： `https://minecraft.azureedge.net/bin-win/bedrock-server-1.21.20.03.zip`
 
 将下载好的 BDS 压缩文件解压在一个用于存储服务器文件的安全位置（以下简称 `BDS 根目录` ）
 
 然后将 `Releases` 的压缩包文件解压在任意一个地方，然后将解压出的 `ll` 字样文件夹里的东西全部移动至 `BDS 根目录`
 
-如果之前没有安装msvc2015运行库，请先安装运行库，本项目支持打包运行库安装程序进入压缩包ovo
+如果之前没有安装 msvc2015 运行库，请先安装运行库，本项目支持打包运行库安装程序进入压缩包 ovo
 
-在确保bds版本和ll版本匹配的情况下双击运行 `PeEditor.exe` ，等待 `LeviLamina` 注入完成
+在确保 bds 版本和 ll 版本匹配的情况下双击运行 `PeEditor.exe` ，等待 `LeviLamina` 注入完成
 
 最后，双击注入完成的 `bedrock_server_mod.exe`，成功开服！
 
@@ -106,19 +106,19 @@ lip install -y github.com/GroupMountain/GMLIB
 
 #### 如何编写？
 
-很简单，其实就是 powershell 脚本的编写，所有的cmd功能他都能实现
+很简单，其实就是 powershell 脚本的编写，所有的 cmd 功能他都能实现
 
 #### 注意事项
 
 如果其中想使用 lip 安装别的包，请一定写成这个样式，否则将可能出现故障
 
 ```text title="user_scripts.ps1"
-lip install -y 包的url
+lip install -y 包的 url
 ```
 
 其次，请不要更改此文件的名称，否则将会出现问题
 
-~~action:lip好像睡着了~~
+~~action : lip 好像睡着了~~
 
 ## 工作原理
 
@@ -126,13 +126,13 @@ lip install -y 包的url
 
 #### 已知的问题
 
-在打包旧版ll选择附带lse的时，会错误的打包最新版本的lse，这可能会带来一系列问题 ~~正在思考解决方案咕~~
+在打包旧版 ll 选择附带 lse 的时，会错误的打包最新版本的 lse ，这可能会带来一系列问题 ~~正在思考解决方案咕~~
 
 ## Bug 反馈和建议?
 
 提在 [Issues](https://github.com/FTS427/ll_easier/issues) 里，或交 [PR](https://github.com/FTS427/ll_easier/pulls)
 
-请注意，ll和lse的问题请不要投递到这里@_@
+请注意， ll 和 lse 的问题请不要投递到这里 @_@
 
 什么？你说从 `Releases` 中下载更慢？可以用一些镜像站嘛～
 
@@ -148,4 +148,4 @@ lip install -y 包的url
 
 很感谢 [ReturnZeroGirl](https://github.com/ReturnZeroGirl) 大佬提供的 py 脚本进行检测 BDS 版本
 
-很感谢n15421对项目进行没用的优化
+很感谢 n15421 对项目进行没用的优化
