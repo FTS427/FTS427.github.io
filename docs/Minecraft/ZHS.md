@@ -26,7 +26,7 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 - 启用作弊: 是
 - 启用命令方块: 是
 - 获得成就: 否
-- 客户端需求：1.21.1.03 基岩版
+- 客户端需求：1.21.22.01 基岩版
 - 种子：sbmojang
 - 服务器地址：fts427.top
 - 端口号：19132
@@ -36,6 +36,7 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 - 启用资源包: 否
 - 启用反作弊: 否
 - 存档序号：VI
+- 插件加载器：Endstone v0.5.2
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="170px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=fts427.top&port=19132&dark=true&join_open=true"></iframe>
 
@@ -66,6 +67,8 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 
 ## 其他信息
 
+[ZH-Server 的开源组织](https://github.com/ZH-Server)
+
 ~~你是否好奇 fts427.top 下的 19132 端口在干什么？[点击这里](../blog/posts/240708.md) 了解详情~~
 
 [*感谢列表*](./gaming_thx.md)
@@ -73,6 +76,8 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 [*黑名单*](./no_play.md)
 
 ## 过去的回忆
+
+[这里放置了所有旧存档（Github，速度会很慢）](https://github.com/ZH-Server/old_save_backup/releases)
 
 ### ZHS-IV
 
