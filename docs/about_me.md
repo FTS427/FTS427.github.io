@@ -19,7 +19,7 @@ comments: true
 
 是个宅，平时不太喜欢出门，但是我其实也很喜欢大自然
 
-1.76 米左右，不算很高，刚刚好
+1.78 米左右，不算很高，刚刚好
 
 家境比较贫寒，不过还好，我的金钱欲几乎没有
 
@@ -87,7 +87,7 @@ Swap: 64GB
 
 机型: Lenovo TB-X306FC_PRC
 
-OS: crDroid 7.16(Android 11 GSI)
+OS: Lineage OS 20 Unofficial Build(Android 13)
 
 CPU: MT6765/MT8768
 
@@ -95,17 +95,15 @@ CPU: MT6765/MT8768
 
 存储空间: 64GB
 
-Swap: 0GB
+Swap: 4GB
 
 ## 我的项目
 
-[MathTool-CLI](https://github.com/QuantumLS-Studio/MathTool-CLI) written in C
-
-[ECPPH](https://github.com/QuantumLS-Studio/ECPPH) written in C++
-
-[llbds_packer](https://github.com/FTS427/llbds_packer) GitAction
+[ll_easier](https://github.com/ZH-Server/ll_easier) 用于迅速打包 LeviLamina  的 GitAction
 
 [QuantumLS-Studio](https://github.com/QuantumLS-Studio) 我的工作室，欢迎加入！
+
+[ZH-Server Open Source Project](https://github.com/ZH-Server) ZH-Server 开源组织
 
 ## 梦想
 

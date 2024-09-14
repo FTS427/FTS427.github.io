@@ -57,7 +57,6 @@ markdown_extensions:
   - pymdownx.smartsymbols
   - pymdownx.superfences
   - pymdownx.tilde
-  #- pymdownx.snippets
   - pymdownx.highlight:
       anchor_linenums: true
       auto_title: true
