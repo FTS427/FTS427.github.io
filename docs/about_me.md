@@ -105,6 +105,8 @@ Swap: 4GB
 
 [ZH-Server Open Source Project](https://github.com/ZH-Server) ZH-Server 开源组织
 
+[Luohe Senior School](https://github.com/Luohe-Senior-School) 非官方漯河高中的 Github 开源组织
+
 ## 梦想
 
 我在朝着一个模糊的光亮奔跑...
@@ -112,8 +114,6 @@ Swap: 4GB
 ## 职位
 
 `ZH-Server` 的 ~~不称职~~ 腐竹（ &
-
-`WonderLab.Override` 综合评价员（ &
 
 `Blessing Studio` 中的一个无名小卒，经常干一些杂活 &
 

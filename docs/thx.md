@@ -4,6 +4,8 @@
 
 [ReturnZeroGirl](https://github.com/ReturnZeroGirl) 提供了本小站的域名，并对本文档加以改进
 
+[n15421](https://github.com/xzfg-n15421) 对 [LL Easier](tech-docs/tools/ll_easier.md) 文档进行优化和改进
+
 ## 感谢以下开源项目
 
 [MKdocs](https://github.com/mkdocs/mkdocs) 整个小站的框架
