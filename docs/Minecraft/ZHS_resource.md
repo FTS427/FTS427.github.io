@@ -16,5 +16,5 @@
 | better_stop   | 更好的关服 | [better_stop](https://github.com/ZOSP/endstonebetter_stop) |
 | emoji         | 增加一个和 Nukkit 服务器一样的 Emoji 功能 | [emoji](https://github.com/endstone-essentials/emoji) |
 | sidebar       | 显示侧边栏 | [sidebar](https://github.com/endstone-essentials/sidebar) |
-| real_weather  | 同步现实中的天气 | [](https://github.com/ZOSP/endtone_real_weather) |
+| real_weather  | 同步现实中的天气 | [real_weather](https://github.com/ZOSP/endtone_real_weather) |
 | essentials    | 增加 TPa, home, back 等实用功能 | [essentials](https://github.com/endstone-essentials/essentials) |

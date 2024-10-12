@@ -4,7 +4,7 @@
 
 ## 目前的OP有谁？
 
-Huang_FTS427, ZTT2008917(ZTT20080917), SYSTEMGirl18609(ReturnZeroGirl)
+Huang_FTS427, ZTT2008917(ZTT20080917), SYSTEMGirl18609(ReturnZeroGirl), diamondsword315
 
 ## OP们可以干什么？
 
@@ -23,9 +23,9 @@ Huang_FTS427, ZTT2008917(ZTT20080917), SYSTEMGirl18609(ReturnZeroGirl)
 - 封禁玩家：false（当出现 *游戏环境基础原则* 中描述的情况时，可以为 `true` ）
 - 踢出玩家：false（当出现 *游戏环境基础原则* 中描述的情况时，可以为 `true` ）
 
-## 我怎样加入 OP 列表？
+## 我怎样成为管理员？
 
-很抱歉，我不建议这么做，但是您如果实在认为您有可以管理服务器的能力，请先发送请求邮件至 -> <FTS427@outlook.com> ，如果审查通过，我们将欢迎您！
+很抱歉，我不建议这么做，但是您如果实在认为您有可以管理服务器的能力，请先发送请求邮件至 -> <FTS427@outlook.com> ，如果审查通过，我们将欢您的加入！
 
 ### 为什么有限制？
 
