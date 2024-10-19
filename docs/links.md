@@ -1,4 +1,10 @@
+---
+comments: true
+---
+
 # 友链
+
+> 在下方评论区里写下你的 blog 链接，我将会将她添加入本页
 
 ## 文档
 
@@ -27,6 +33,8 @@
 [mail_set 大佬的铺子](https://blogs.mailset.top/)
 
 > [mail_set 大佬的 waline 评论区](https://waline.mailset.top/)
+
+[PILIHU's Blog](https://blog.pilihu.us.kg/)
 
 ## 其它有趣的项目
 
