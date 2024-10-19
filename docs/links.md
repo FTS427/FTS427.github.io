@@ -26,6 +26,8 @@
 
 [mail_set 大佬的铺子](https://blogs.mailset.top/)
 
+> [mail_set 大佬的 waline 评论区](https://waline.mailset.top/)
+
 ## 其它有趣的项目
 
 [AL-1S（](https://alan-shangmike.github.io/Sping_Aris_github.io/)
