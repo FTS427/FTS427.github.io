@@ -67,6 +67,8 @@ Skype: <FTS427@outlook.com>
 
 ![screenshot](assets/my_computer.png)
 
+> 我的配置文件可以在 [此处](https://github.com/FTS427/dotfile) 找到
+
 主力系统: Arch Linux
 
 备用开发系统: Windows 10 Professional Workstation
