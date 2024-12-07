@@ -59,7 +59,7 @@ Xbox ID: Huang_FTS427
 
 Skype: <FTS427@outlook.com>
 
-[我的 Bilibili 空间](https://space.bilibili.com/1978537245?spm_id_from=333.1007.0.0)
+[Bilibili](https://space.bilibili.com/1978537245)
 
 ## 开发环境
 
@@ -91,7 +91,7 @@ Swap: 64GB
 
 OS: Lineage OS 20 Unofficial Build(Android 13)
 
-CPU: MT6765/MT8768
+CPU: MTK MT6765
 
 运存: 4GB
 

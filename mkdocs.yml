@@ -91,6 +91,7 @@ nav:
         - 解 BL 锁后干点啥: tech-docs/android/lenovo/after_unlockbl.md
         - 刷 GSI 系统: tech-docs/android/lenovo/flash_gsi_system.md
         - 刷系统: tech-docs/android/lenovo/flash_stock_system.md
+        - 让我们编译: tech-docs/android/lenovo/build_rom/index.md
       - OPPO A31t: 
         - 设备信息: tech-docs/android/oppo/device_info.md
         - 刷机: tech-docs/android/oppo/flash_system.md
