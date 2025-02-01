@@ -51,13 +51,13 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 
 漂亮的基地
 
-![base](assets/ZHS/photos/VII/base.png)
+![base](../assets/ZHS/photos/VII/base.png)
 
-![base2](assets/ZHS/photos/VII/base2.png)
+![base2](../assets/ZHS/photos/VII/base2.png)
 
 农场
 
-![farm](assets/ZHS/photos/VII/farm.png)
+![farm](../assets/ZHS/photos/VII/farm.png)
 
 > 以上风景摄影师： ReturnZeroGirl ，在此非常感谢您的帮助
 
