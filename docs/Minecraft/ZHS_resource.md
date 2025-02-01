@@ -11,7 +11,6 @@
 
 | 名称           | 使用目的   | 仓库链接 |
 | -----------   | ------    | ------- |
-| stone_shuffle | 自动更换 MOTD 信息 | [EndstoneShuffle](https://github.com/Loudbooks/EndstoneShuffle) |
 | better_server | 进服提示 | [better_server](https://github.com/ZOSP/endstone_better_server) |
 | better_stop   | 更好的关服 | [better_stop](https://github.com/ZOSP/endstonebetter_stop) |
 | emoji         | 增加一个和 Nukkit 服务器一样的 Emoji 功能 | [emoji](https://github.com/endstone-essentials/emoji) |

@@ -26,19 +26,19 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 - 启用作弊: 是
 - 启用命令方块: 是
 - 获得成就: 否
-- 客户端需求：1.21.30.01 基岩版
-- 种子：sbmojang
-- 服务器地址：fts427.top
+- 客户端需求：1.21.50 基岩版
+- 种子：20250129
+- 服务器地址：server.fts427.top
 - 端口号：19132
 - 启用实验性玩法: 否
 - 启用假日创造者功能: 否
 - 启用行为包 / 模组: 否
 - 启用资源包: 否
 - 启用反作弊: 否
-- 存档序号：VI
-- 插件加载器：Endstone v0.5.4.1
+- 存档序号：VII
+- 插件加载器：Endstone v0.5.7.1
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="170px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=fts427.top&port=19132&dark=true&join_open=true"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="170px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=server.fts427.top&port=19132&dark=true&join_open=true"></iframe>
 
 本服务器为公益服，无收费内容
 
@@ -49,7 +49,17 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 
 > 我们希望看到更多玩家将自己拍摄的景象展示在这里
 
-服务器还在建设中。。。尽情期待！
+漂亮的基地
+
+![base](assets/ZHS/photos/VII/base.png)
+
+![base2](assets/ZHS/photos/VII/base2.png)
+
+农场
+
+![farm](assets/ZHS/photos/VII/farm.png)
+
+> 以上风景摄影师： ReturnZeroGirl ，在此非常感谢您的帮助
 
 ## 🧐腐竹&管理名单
 
