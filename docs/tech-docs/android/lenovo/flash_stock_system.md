@@ -32,7 +32,7 @@
 !!! warning "警告"
     此刷机包处于测试阶段，问题很多，非常不建议作为日常使用的系统！！！
 
-目前发现的问题：无法使用手电筒（根据 [我的询问]() 和下面的帖子可以得知我们的 `TB-X306FC` 和国外的 `TB-X306X` 的不同之处之一就是没有手电筒），`Blue Archive` 和 `Soul Knight` 这一类的游戏无法正常玩以及电量使用情况显示不是很正常
+目前发现的问题：无法使用手电筒（根据 [我的询问](https://xdaforums.com/t/open-beta-lineageos-17-1-for-lenovo-tab-m10hd-2nd-gen-x306x-a10.4680619/post-89738681) 和下面的帖子可以得知我们的 `TB-X306FC` 和国外的 `TB-X306X` 的不同之处之一就是没有手电筒），`Blue Archive` 和 `Soul Knight` 这一类的游戏无法正常玩以及电量使用情况显示不是很正常
 
 [刷机包下载站](https://ota.vistaslayer.ovh/) **严禁 DDOS 或一切摧毁网站的行为！！！！**
 
@@ -48,27 +48,33 @@ Lineage OS 21 Android 13 Kernel: linux 4.9
 
 打开解压后的 `SP Flash Tool v5` 的文件目录下，找到带有 `SP Flash Tool`字样的可执行文件，打开
 
-### 刷入 TWRP
+### 刷入 rec
 
-同样的，下载 `XDA 大佬的 TWRP` ，之后放在一个好找到的位置
+从下载站下载最新的 lineageos 刷机包，把里面的 `recovery.img` 解压出来
 
 将设备通过 `adb reboot bootloader` 命令或按下 `电源` 与 `音量-` 键等方式进入 `fastboot` 模式
 
 然后通过 `fastboot` 命令刷入
 
 ```pwsh
-fastboot flash recovery 下载好的 TWRP 位置
-```
-
-然后关掉 avb
-
-```pwsh
-fastboot vbmeta vbmeta文件路径 --disable-verification
+fastboot flash recovery 下载好的 rec 位置
 ```
 
 ### 下载并调整刷机包
 
+> 接下来的步骤只适用于第一次刷入 lineageos 的设备
+
+把下载好的刷机包复制一份解压到一个文件夹里，找到 `META-INF/com/google/android/updater-script` 这个文件
+
+把第一行 `assert` 检查机型那一行删掉，之后重新压缩回去
+
+刷机包就调整好了
+
 ### 刷入
+
+将设备重启至 recovery 模式，然后把 data, cache, system（先挂载上） 全部格式化，然后将设备连接至计算机调整成 `从 adb sideload 更新`，然后使用 `adb sideload 调整好的刷机包的路径` 把刷机包 sideload 上去
+
+之后等待安装完成，重启， lineageos 就刷好啦！
 
 ### 后期注意事项
 
