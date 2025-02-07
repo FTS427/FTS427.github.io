@@ -10,6 +10,9 @@ theme:
   language: zh
   features:
     - content.action.edit
+    - content.code.annotate
+    - content.action.copy
+    - content.action.select
     - search.suggest
     - search.highlight
     - navigation.tabs
@@ -61,6 +64,9 @@ markdown_extensions:
       anchor_linenums: true
       auto_title: true
       linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.snippets
 
 nav:
   - 欢迎！: index.md
@@ -97,6 +103,8 @@ nav:
       - OPPO A31t: 
         - 设备信息: tech-docs/android/oppo/device_info.md
         - 刷机: tech-docs/android/oppo/flash_system.md
+      - Waydroid:
+        - BA 折腾记: tech-docs/android/waydroid/blue_archive.md
     - 其它工具: 
       - MKdocs 网站框架: tech-docs/tools/mkdocs.md
       - Scoop 包管理器: tech-docs/tools/scoop_use.md
