@@ -47,7 +47,9 @@ Minecraft Bedrock, Minecraft Java, Undertale, Soul Knight, Blue Archive(国际�
 
 ## 在这里找到我
 
-QQ: 2783629533
+~~QQ: 2783629533~~
+
+> 我已经不再使用 QQ 进行通讯，详情参见 [此处](./blog/posts/250223.md)
 
 E-mail:
 
