@@ -8,6 +8,8 @@ theme:
   custom_dir: overrides
   name: material
   language: zh
+  font:
+    code: false
   features:
     - content.action.edit
     - content.code.annotate
