@@ -60,7 +60,7 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 
 ![farm](../assets/ZHS/photos/VII/farm.png)
 
-> 以上风景摄影师： ReturnZeroGirl ，在此非常感谢您的帮助
+> 以上风景摄影师： SYSTEMGirl18609 ，在此非常感谢您的帮助
 
 ## 🧐腐竹&管理名单
 
@@ -68,7 +68,7 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 
 腐竹：Huang_FTS427,  ZTT2008917(ZTT20080917)
 
-管理：Huang_FTS427,  ZTT2008917(ZTT20080917),  SYSTEMGirl18609(RetrunZeroGirl)
+管理：Huang_FTS427,  ZTT2008917(ZTT20080917),  SYSTEMGirl18609
 
 ## 本服保证绝不会出现以下内容
 
