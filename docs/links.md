@@ -22,10 +22,6 @@ comments: true
 
 [漯河高中非官方网站](https://Luohe-Senior-School.github.io/)
 
-[西路Baka 大佬的 blog](https://baka_hs.gitee.io/xilu-baka/)
-
-[ReturnZeroGirl 的小站](http://www.returnzerogirl.top/)
-
 [MM喵了个 的小站](https://www.mimiaomc.top/zh-CN/index.html)
 
 [Cascade Kobayashi](https://cascade.moe/)
