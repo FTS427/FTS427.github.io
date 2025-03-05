@@ -4,7 +4,7 @@
 
 ## 目前的OP有谁？
 
-Huang_FTS427, ZTT2008917(ZTT20080917), SYSTEMGirl18609(ReturnZeroGirl), diamondsword315
+Huang_FTS427, ZTT2008917(ZTT20080917), SYSTEMGirl18609(Flora)
 
 ## OP们可以干什么？
 
@@ -29,6 +29,6 @@ Huang_FTS427, ZTT2008917(ZTT20080917), SYSTEMGirl18609(ReturnZeroGirl), diamonds
 
 ### 为什么有限制？
 
-1、管理员这个职位不是说着玩的，作为管理员，目的是管理自己和他人，让服务器更好
+1、管理员这个职位不是说笑的，作为管理员，目的是管理自己和他人，让服务器更好
 
 2、管理员太多可能会引起争执和责任推脱，这个将会使服务器更难管理
