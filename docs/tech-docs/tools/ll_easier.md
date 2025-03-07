@@ -144,6 +144,6 @@ lip install -y 包的url
 
 很感谢 [Litezero](https://github.com/Litezero) 大佬贡献的 auto 自动更新版本 & 检测对应 BDS 版本功能！
 
-很感谢 Flora 大佬提供的 py 脚本进行检测 BDS 版本
+很感谢 Haxon 大佬提供的 py 脚本进行检测 BDS 版本
 
 很感谢 [n15421](https://github.com/xzfg-n15421) 对项目进行优化
