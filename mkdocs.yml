@@ -79,7 +79,7 @@ extra:
   icp: 萌ICP备20250427号
   social:
     - icon: fontawesome/brands/x-twitter
-      link:
+      link: https://x.com/HuangFts427
       name: Huang FTS427 on X
 
     - icon: fontawesome/brands/github
@@ -87,7 +87,7 @@ extra:
       name: Huang FTS427 on Github
 
     - icon: fontawesome/brands/discord
-      link:
+      link: https://discord.com/1129351022893072524
       name: Huang FTS427 on Discord
 
     - icon: fontawesome/solid/paper-plane
