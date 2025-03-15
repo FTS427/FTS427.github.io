@@ -91,7 +91,7 @@ Swap: 64GB
 
 机型: Lenovo TB-X306FC_PRC
 
-OS: Lineage OS 20 Unofficial Build(Android 13)
+OS: Lineage OS 21 Unofficial Build(Android 14)
 
 CPU: MTK MT6765
 

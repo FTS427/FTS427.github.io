@@ -1,5 +1,9 @@
 site_name: Huang FTS427's Website
 site_url: https://www.fts427.top/
+site_description: >-
+  This is Huang FTS427's website, 
+  it's about my Minecraft server, technological docs and my daily life.
+site_author: Huang FTS427
 repo_url: https://github.com/FTS427/FTS427.github.io
 repo_name: FTS427/FTS427.github.io
 edit_uri: edit/main/docs/
@@ -13,6 +17,7 @@ theme:
   features:
     - content.action.edit
     - content.code.annotate
+    - content.code.copy
     - content.action.copy
     - content.action.select
     - search.suggest
@@ -43,10 +48,50 @@ theme:
 
 plugins: 
   - search
+  - tags
+
+  - git-revision-date-localized:
+      type: timeago
+      enable_creation_date: true
+      exclude:
+       - index.md
+      timezone: Asia/Shanghai
+      locale: zh
+  
+  - git-authors
+  - img2fig
+  - glightbox
   - blog:
       authors_file: "{blog}/.authors.yml"
+  - rss:
+      match_path: /*
+      categories:
+        - categories
+        - tags
+      use_git: false
+
 extra_css:
+  - stylesheets/custom.css
   - stylesheets/extra.css
+  - stylesheets/fonts.css
+
+extra:
+  icp: 萌ICP备20250427号
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: 
+      name: Huang FTS427 on X
+    
+    - icon: fontawesome/brands/github
+      link: https://github.com/FTS427
+      name: Huang FTS427 on Github
+
+    - icon: fontawesome/brands/discord
+      link:
+      name: Huang FTS427 on Discord
+
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<FTS427@outlook.com>
 
 markdown_extensions:
   - admonition
@@ -59,6 +104,8 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.inlinehilite
   - pymdownx.mark
+  - pymdownx.magiclink
+  - pymdownx.keys
   - pymdownx.smartsymbols
   - pymdownx.superfences
   - pymdownx.tilde

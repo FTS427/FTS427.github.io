@@ -1,0 +1,50 @@
+<footer class="md-footer">
+    <div class="md-footer-meta md-typeset">
+        <div class="md-footer-meta__inner md-grid">
+            <!-- 版权信息 -->
+            <div class="md-footer-copyright">
+                {% if config.copyright %}
+                <div class="md-footer-copyright__highlight">
+                    {{ config.copyright }}
+                </div>
+                {% endif %}
+
+                <!-- 构建信息 -->
+                <div class="md-footer-build">
+                    Documentation built with
+                    <a href="https://www.mkdocs.org" target="_blank" rel="noopener">
+                        MkDocs
+                    </a>
+                    and
+                    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+                        Material for MkDocs
+                    </a>
+                </div>
+            </div>
+
+            <!-- 社交链接 -->
+            {% if config.extra.social %}
+            <div class="md-footer-social">
+                {% for social in config.extra.social %}
+                <a href="{{ social.link }}" 
+                   target="_blank" 
+                   rel="noopener" 
+                   title="{{ social.name }}"
+                   class="md-footer-social__link">
+                    {% include ".icons/" ~ social.icon ~ ".svg" %}
+                </a>
+                {% endfor %}
+            </div>
+            {% endif %}
+
+            <!-- 备案信息 -->
+            {% if config.extra.icp %}
+            <div class="md-footer-icp">
+                <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener">
+                    {{ config.extra.icp }}
+                </a>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</footer>
