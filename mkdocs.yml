@@ -49,7 +49,6 @@ theme:
 plugins:
   - search
   - tags
-
   - git-revision-date-localized:
       type: timeago
       enable_creation_date: true
@@ -57,9 +56,7 @@ plugins:
         - index.md
       timezone: Asia/Shanghai
       locale: zh
-
   - git-authors
-  - img2fig
   - glightbox
   - blog:
       authors_file: "{blog}/.authors.yml"
@@ -77,6 +74,7 @@ extra_css:
 
 extra:
   icp: 萌ICP备20250427号
+  
   social:
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/HuangFts427
@@ -104,7 +102,6 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.inlinehilite
   - pymdownx.mark
-  - pymdownx.magiclink
   - pymdownx.keys
   - pymdownx.smartsymbols
   - pymdownx.superfences
