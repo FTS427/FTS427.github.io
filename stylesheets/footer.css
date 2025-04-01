@@ -1,0 +1,74 @@
+.md-footer {
+    background-color: var(--md-default-bg-color);
+    color: var(--md-default-fg-color);
+    padding: 2rem 0;
+    border-top: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-footer-meta__inner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+
+/* 版权信息 */
+.md-footer-copyright {
+    font-size: 0.8rem;
+}
+
+.md-footer-copyright__highlight {
+    margin-bottom: 0.5rem;
+}
+
+.md-footer-build {
+    color: var(--md-default-fg-color--light);
+}
+
+/* 社交链接 */
+.md-footer-social {
+    display: flex;
+    gap: 1rem;
+}
+
+.md-footer-social__link {
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--md-default-fg-color);
+    border-radius: 50%;
+    transition: all 0.2s ease;
+}
+
+.md-footer-social__link:hover {
+    background-color: var(--md-code-bg-color);
+    color: var(--md-accent-fg-color);
+}
+
+/* 备案信息 */
+.md-footer-icp {
+    width: 100%;
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 0.8rem;
+}
+
+.md-footer-icp a {
+    color: var(--md-default-fg-color--light);
+    text-decoration: none;
+}
+
+/* 响应式适配 */
+@media screen and (max-width: 76.1875em) {
+    .md-footer-meta__inner {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .md-footer-social {
+        justify-content: center;
+    }
+}
