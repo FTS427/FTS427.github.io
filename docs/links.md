@@ -8,7 +8,7 @@ comments: true
 
 ## 文档
 
-[`ECPPH` 文档](https://quantumls-studio.github.io/ECPPH/)
+~~[`ECPPH` 文档](https://quantumls-studio.github.io/ECPPH/)~~
 
 [`ML` 文档](https://wiki.blessing-studio.cn/)
 
