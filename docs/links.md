@@ -41,3 +41,7 @@ comments: true
 [过来吃井！](https://u1805.github.io/blue-archive-gacha-simulator/)
 
 [`Arch Linux` 酱的射击游戏](https://raviolimavioli.itch.io/system77)
+
+## 更多
+
+[sysytemdirect 的小站](about.sysytemdirect.top)
