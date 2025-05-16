@@ -4,7 +4,7 @@
 
 ## 目前的OP有谁？
 
-Huang_FTS427, ZTT2008917(ZTT20080917), SYSTEMGirl8609(Luna)
+Huang_FTS427, ZTT2008917(ZTT20080917), SYSTEMGirl8609(CaSilicate)
 
 ## OP们可以干什么？
 
