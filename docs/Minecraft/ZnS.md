@@ -1,9 +1,10 @@
-# Zn Server-JavaEdition (已终结)
+# Zn Server
 
-## 有朝一日再会
+Zn-Server -- 一个互通的 Mineacrft 生存服务器
 
-Zn Server 已由于无人过久和浪费资源而停止， ~~但是您可以前往 [这里](http://www.returnzerogirl.com/rzgserver/welcome/) 来游玩 ReturnZeroGirl 维护的 Java 版生电服务器~~（因为一些原因，RZG 服务器也已陷入了沉睡...）
+## 服务器信息
 
-## 昔日时光
+- 地址: server.fts427.top
+- Java 端口: 25565
+- 基岩端口: 19132
 
-令人悲伤，存档已丢失
