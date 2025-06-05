@@ -49,13 +49,6 @@ theme:
 plugins:
   - search
   - tags
-  - git-revision-date-localized:
-      type: timeago
-      enable_creation_date: true
-      exclude:
-        - index.md
-      timezone: Asia/Shanghai
-      locale: zh
   - git-authors
   - glightbox
   - blog:
