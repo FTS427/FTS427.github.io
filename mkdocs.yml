@@ -53,12 +53,6 @@ plugins:
   - glightbox
   - blog:
       authors_file: "{blog}/.authors.yml"
-  - rss:
-      match_path: /*
-      categories:
-        - categories
-        - tags
-      use_git: false
 
 extra_css:
   - stylesheets/custom.css
