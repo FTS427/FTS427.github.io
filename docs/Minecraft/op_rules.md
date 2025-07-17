@@ -2,15 +2,15 @@
 
 > 以下的 `OP` 均指 `Operator` ，及 `管理员`
 
-## 目前的OP有谁？
+## 目前的 OP 有谁？
 
 Huang_FTS427, ZTT2008917(ZTT20080917), SYSTEMGirl8609(CaSilicate)
 
-## OP们可以干什么？
+## OP 们可以干什么？
 
 **所有管理员在执行任何命令时请先告知 Huang_FTS427!**
 
-因为服务器的 `allow-cheats` 值为 `false` ，所以OP的权限并没有什么用
+因为服务器的 `allow-cheats` 值为 `false` ，所以 OP 的权限并没有什么用
 
 ### 如果 `allow-cheats` 值为 `true` ，OP 们可以干什么？（虽然我们不期待这样）
 
