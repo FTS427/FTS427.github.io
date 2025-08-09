@@ -101,6 +101,8 @@ markdown_extensions:
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 nav:
   - 欢迎！: index.md
