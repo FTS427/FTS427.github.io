@@ -16,29 +16,29 @@
 
 首先以[此仓库](https://github.com/FTS427/ll_easier)为模板在您 Github 的帐户下建立一个新仓库
 
-![temp](/assets/tech/ll_e_temp.png)
+![temp](../../assets/tech/ll_e_temp.png)
 
 选择 `Create a new repository`
 
-![add info](/assets/tech/ll_e_info.png)
+![add info](../../assets/tech/ll_e_info.png)
 
 填写一下相关信息，然后点击 `Create repository`
 
 至此，你已经成功把本仓库克隆到你的账户下
 
-### Action, 启动!
+### Action, 启动
 
 打开 `Action` 页面
 
-![open action](/assets/tech/ll_e_action.png)
+![open action](../../assets/tech/ll_e_action.png)
 
 点击右侧的 `Pack LeviLamina`
 
-![action select](/assets/tech/ll_e_action_select.png)
+![action select](../../assets/tech/ll_e_action_select.png)
 
 点击 `Run workflow` 填入你需要的 LeviLamina 版本号，以及按照个人需求填写其他内容
 
-![run workflow](/assets/tech/ll_e_run.png)
+![run workflow](../../assets/tech/ll_e_run.png)
 
 填写好后，点击绿色的 `Run workflow` 按钮，再等个一杯白开水的功夫你就可以去 `Releases` 里找到期待中的 `ll_ll版本号_ll所需bds版本号.zip` 啦！
 
@@ -69,9 +69,9 @@
 ??? question "官方网站中的 BDS 版本和打包出来的需求版本不一致怎么办"
     如果发现版本在官方界面下载的与 Git Action 已经打包好的所需版本不一致，可以前往 [Minecraft Wiki](https://zh.minecraft.wiki/) 中查找所需版本，下载 BDS，~~或者修改官网下载链接对应的版本号~~
 
-    格式：https://minecraft.azureedge.net/bin-win/bedrock-server-版本.zip
+    格式: `https://minecraft.azureedge.net/bin-win/bedrock-server-版本.zip`
     
-    举个栗子：`https://minecraft.azureedge.net/bin-win/bedrock-server-1.21.20.03.zip`
+    举个栗子: `https://minecraft.azureedge.net/bin-win/bedrock-server-1.21.20.03.zip`
 
 将下载好的 BDS 压缩文件解压在一个用于存储服务器文件的安全位置（以下简称 `BDS 根目录` ）
 
