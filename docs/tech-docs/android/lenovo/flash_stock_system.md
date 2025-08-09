@@ -38,17 +38,12 @@
 
 2. [其他小问题](https://github.com/Bakoubak/amar_row_lte-A11-releases/issues)
 
-### 下载合适的刷机包
-
-~~ [刷机包下载站](https://ota.vistaslayer.ovh/) **严禁 DDOS 或一切摧毁网站的行为！！！！** ~~
-
-Lineage OS 19 Android 12 Kernel linux 4.19.127
-
 ### 更换底包
 
 **此步必须严格进行**
 
 1. 准备
+
     从 *[相关刷机资源](./resource.md)* 中找到 `SP Flash Tool v5` 进行下载, 并解压到一个合适的位置 (尽量不要包含有中文的路径)
 
     下载 [Android 11 底包](https://mirror.vistaslayer.ovh/Firmwares/amar_row_lte/X306X/Android-11/TB-X306X_S230973_240402_BMP.zip) 并解压到一个合适的位置 (尽量不要包含有中文的路径)
@@ -56,11 +51,13 @@ Lineage OS 19 Android 12 Kernel linux 4.19.127
     确保已经备份完毕后, 将设备关机
 
 2. 配制 SP Flash Tool
+
     打开压后的 `SP Flash Tool v5` 的文件目录下, 找到带有 `SP Flash Tool` 字样的可执行文件, 打开
 
     将
 
 3. 刷入底包
+
     先同时按住 `音量+` 和 `音量-`, 然后将设备接入计算机, 看到 `SP Flash Tool` 上出现以下画面即为连接成功
 
     鼠标点击 `` 进行刷入, 等出现类似以下画面即为刷入成功
@@ -72,11 +69,13 @@ Lineage OS 19 Android 12 Kernel linux 4.19.127
 ### 刷入 recovery
 
 1. 准备
+
     从 *[此处](https://github.com/Bakoubak/amar_row_lte-A11-releases/releases)* 下载最新的 LineageOS 刷机包 (如: LineageOS-19.1_amar-row-lte-11_ALPHA2-HF2.zip ), 并把里面的 `recovery.img` 解压出来
 
     将设备通过 `adb reboot bootloader` 命令或长按 `电源` 与 `音量-` 键等方式重启至 `fastboot` 模式
 
 2. 刷入 recovery
+
     通过以下命令命令刷入
 
     ```powershell
@@ -86,9 +85,11 @@ Lineage OS 19 Android 12 Kernel linux 4.19.127
 ### 刷入
 
 1. 准备
+
     将设备重启至 recovery 模式, 然后把 data, cache 全部格式化
 
 2. 侧载刷机包
+
     将设备连接至计算机并在 recovery 界面选择 `Apply update` 并进入, 然后选择 `Apply from ADB` 并进入, 现在设备已经进入 `sideload` 模式
 
     在电脑上执行:
@@ -98,9 +99,11 @@ Lineage OS 19 Android 12 Kernel linux 4.19.127
     ```
 
 3. 清除数据
+
     等显示安装完成后不要立即重启, 找到 `Factory reset` 并进入, 选择 `Format data/factory reset` 并点击进行再次清除数据
 
 4. 成功!
+
     之后等待操作完成, 重启, LineageOS 就刷好啦!
 
 ### 后期注意事项

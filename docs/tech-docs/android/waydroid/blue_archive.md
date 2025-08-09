@@ -1,7 +1,5 @@
 # 在 Waydroid 上愉快的玩 Blue Archive
 
-没错，你如果看过 [我的个人简介](../../../about_me.md) ，你会知道我喜欢玩的游戏之一就是 `Blue Archive`（国际版），但是根据 [`TB-X306FC` 刷 stock rom](../lenovo/flash_stock_system.md) 这里的描述，`Blue Archive` 是没办法在我的平板上正常运行的，这怎么办呢，这就引出了本文的主角 -- `Waydroid`
-
 ## 安装
 
 1. 仅仅需要直接安装 waydroid，linux-zen 和 waydroid-image 就好
@@ -42,6 +40,7 @@
     ```
 
 2. 创建 venv 环境
+
     因为 pip 的一些原因，我们需要创建一个独立的 venv 环境进行执行脚本（请先安装好 python）
 
     ``` zsh title="./waydroid_script"
@@ -64,6 +63,7 @@
         下载速度真的很慢，请提前准备好魔法环境！
 
 4. patch libhoudini 使之可以运行 Blue Archive
+
     根据 [这个仓库](https://github.com/natsumerinchan/libhoudini-package) 的指引，我们来到 [这个 Issue](https://github.com/waydroid/waydroid/issues/788#issuecomment-2162386712)
 
     根据 qwerty12345-wart 这位大佬的讲解，我们需要使用 [这个脚本](https://github.com/user-attachments/files/15800844/scripton.txt) 对 libhoudini 进行 patch，将脚本下载下来，授权执行
@@ -81,6 +81,7 @@
         Do not blindly trust and run script off of the Internet. Always check its content first, even from me.
 
 5. 安装 Blue Archive
+
     你有多种办法可以在 waydroid 安装 Blue Archive，比方说从 Google Play 正版下载，或者从 APKMirror 这种搬运站上获取，甚至可以通过恢复备份的手段将之前你设备上的 Blue Archive 恢复至 waydroid 上，这里不再赘述
 
 至此，你已经可以在 waydroid 上快乐的玩 Blue Archive 了（起码在我的设备上是可以通过这种方式玩的）
@@ -107,4 +108,4 @@
 
 ### 作者的怪话
 
-我的游戏 uid 是 `8404381` ，游戏名字是 `FTS427` ， 希望可以一起来守护学生的笑容口牙😋
+我的游戏 uid 是 `8404381` , 游戏名字是 `FTS427` , 希望可以一起来守护学生的笑容口牙😋

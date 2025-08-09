@@ -19,7 +19,7 @@ comments: true
 
 是个宅，平时不太喜欢出门，但是我其实也很喜欢大自然
 
-1.78 米左右，不算很高，刚刚好
+1.79 米左右，不算很高，刚刚好
 
 家境比较贫寒，不过还好，我的金钱欲几乎没有
 
@@ -37,7 +37,7 @@ comments: true
 
 我也爱着 `Arch Linux` ，她确实给我带来了很多便利
 
-我平时也打游戏，不过不会玩太长时间，很少玩多人游戏
+我平时也打游戏，很少玩多人游戏
 
 Minecraft Bedrock, Minecraft Java, Undertale, Soul Knight, Blue Archive(国际服), 浮岛物语
 
@@ -91,19 +91,19 @@ Swap: 64GB
 
 机型: Lenovo TB-X306FC_PRC
 
-OS: Lineage OS 21 Unofficial Build(Android 14)
+OS: Lineage OS 19 Unofficial Build(Android 12)
 
-CPU: MTK MT6765
+CPU: MTK MT8768WT
 
 运存: 4GB
 
 存储空间: 64GB
 
-Swap: 4GB
+Swap: 3GB
 
 ## 我的项目
 
-[ll_easier](https://github.com/ZH-Server/ll_easier) 用于迅速打包 LeviLamina  的 GitAction
+[ll_easier](https://github.com/ZH-Server/ll_easier) 用于迅速打包 LeviLamina 的 GitAction
 
 [QuantumLS-Studio](https://github.com/QuantumLS-Studio) 我的工作室，欢迎加入！
 
@@ -119,7 +119,7 @@ Swap: 4GB
 
 `ZH-Server` 的 ~~不称职~~ 腐竹（ &
 
-`Blessing Studio` 中的一个无名小卒，经常干一些杂活 &
+`Lunova Studio` 中的一个无名小卒，经常干一些杂活 &
 
 ~~夏莱老师~~ &
 

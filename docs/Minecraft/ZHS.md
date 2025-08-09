@@ -5,7 +5,7 @@
 
 # ZH-Server 服务器——保持原生的公益生存服务器
 
-> 目前 ZH-Server 转移至 Zn Server
+> 目前 ZH-Server 转移至 [Zn Server](./ZnS.md)
 
 [![QQ](https://img.shields.io/badge/836052388-4169E1?style=for-the-badge&logo=QQ&logoColor=white)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=89oGlqOoovJVsXx_9cSg3ri8GNXr_rCs&authKey=SxgvNWIiXBx89Lb%2FvXyi2wQtFpzJetKtY44mAe3RfB2PHcdIzYeoP7C3HBjaI3gM&noverify=0&group_code=836052388)
 [![Teams](https://img.shields.io/badge/Join%20us%20on%20Teams-8A2BE2?style=for-the-badge)](https://teams.live.com/l/community/FBAznfp9Joy4PsGngI)
