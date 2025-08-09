@@ -89,14 +89,19 @@ Lineage OS 19 Android 12 Kernel linux 4.19.127
     将设备重启至 recovery 模式, 然后把 data, cache 全部格式化
 
 2. 侧载刷机包
-    将设备连接至计算机并选择 ``，然后使用执行
+    将设备连接至计算机并在 recovery 界面选择 `Apply update` 并进入, 然后选择 `Apply from ADB` 并进入, 现在设备已经进入 `sideload` 模式
+
+    在电脑上执行:
 
     ```powershell
-    adb sideload 你下载好的刷机位置
+    adb sideload 你下载好的刷机包位置
     ```
 
-3. 成功!
-    之后等待安装完成, 重启, LineageOS 就刷好啦!
+3. 清除数据
+    等显示安装完成后不要立即重启, 找到 `Factory reset` 并进入, 选择 `Format data/factory reset` 并点击进行再次清除数据
+
+4. 成功!
+    之后等待操作完成, 重启, LineageOS 就刷好啦!
 
 ### 后期注意事项
 
