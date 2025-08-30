@@ -67,7 +67,7 @@ Skype: <FTS427@outlook.com>
 
 ### 计算机
 
-![screenshot](assets/my_computer.png)
+![my_computer_screenshot](./assets/my_computer.webp)
 
 > 我的配置文件可以在 [此处](https://github.com/FTS427/dotfile) 找到
 

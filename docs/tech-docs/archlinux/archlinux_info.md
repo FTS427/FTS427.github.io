@@ -5,12 +5,6 @@
 !!! info "注意"
     以下内容仅代表我的个人观点，请理性参考，如果与 Arch Linux wiki 中有冲突和不一致，请以 [*Arch Linux wiki*](https://wiki.archlinux.org/) 中的内容为主
 
-## 新闻： 2024年领导者投选
-
-恭喜 `Levente` 成为今年的 Arch Linux 项目领导者！
-
-[原文连接](https://archlinux.org/news/arch-linux-2024-leader-election-results/)
-
 ## 引言
 
 你是否在找一个足够小，足够轻量，可以尽可能多自定义的用于开发的 Linux 发行版？或许，在这里可以找到答案......
@@ -58,6 +52,8 @@ Arch Linux 在众多 Linux 发行版中是少有的需要用户手动安装的�
 
 ### 拟人化
 
-![Arch Linux 酱](../../assets/archlinux_look.jpg)
+![Arch Linux 酱](../../assets/archlinux_look.webp)
+
+> 图片来源 Pixiv Ravimo 大大的 101776734
 
 Qw<
