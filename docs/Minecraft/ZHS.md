@@ -1,6 +1,6 @@
 <div align="center">
-    <img width="125" src="\assets\ZHS\photos\ZH-Server.png">
-    <img width="300" src="\assets\ZHS\photos\title.png">
+    <img width="125" src="https://github.com/ZH-Server/Gallery/blob/master/ZH-Server.png">
+    <img width="300" src="https://github.com/ZH-Server/Gallery/blob/master/ba_style_title.png">
 </div>
 
 # ZH-Server 服务器——保持原生的公益生存服务器
@@ -54,13 +54,13 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 
 漂亮的基地
 
-![base](../assets/ZHS/photos/VII/base.png)
+![base](https://github.com/ZH-Server/Gallery/blob/master/ZHS/photos/VII/base.png)
 
-![base2](../assets/ZHS/photos/VII/base2.png)
+![base2](https://github.com/ZH-Server/Gallery/blob/master/ZHS/photos/VII/base2.png)
 
 农场
 
-![farm](../assets/ZHS/photos/VII/farm.png)
+![farm](https://github.com/ZH-Server/Gallery/blob/master/ZHS/photos/VII/farm.png)
 
 > 以上风景摄影师： SYSTEMGirl8609 ，在此非常感谢您的帮助
 
@@ -92,7 +92,7 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 
 ## 过去的回忆
 
-[这里放置了所有旧存档（Github，速度会很慢）](https://github.com/ZH-Server/old_save_backup/releases)
+[这里放置了所有旧存档 (Github)](https://github.com/ZH-Server/old_save_backup/releases)
 
 ### ZHS-IV
 
