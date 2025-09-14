@@ -93,4 +93,4 @@ sudo mtk_gui
 
 ## 解锁后干点啥
 
-在设备已经解锁后，您就可以对您的设备进行随心所欲的调整了，比如说：[刷 `Magisk`](./after_unlockbl.md) 、[刷入 GSI 系统](./flash_gsi_system.md) 等等
+在设备已经解锁后，您就可以对您的设备进行随心所欲的调整了，比如说：[刷 `Magisk`](./after_unlockbl.md) 、[刷入 GSI 系统](./flash_gsi_system/flash_gsi_system.md) 等等

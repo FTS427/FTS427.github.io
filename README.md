@@ -1,5 +1,5 @@
-# Welcome
+# Huang FTS427's website
 
-This is the repo of `Huang FTS427's website`, it's about my Minecraft server, technological docs and my daily life.
+This is the repository of `Huang FTS427's website`, which records my Minecraft server, technological documents and my daily life.
 
-If there is something wrong, please tell me in a new Issue/Disscusion or give one PR.
+If there is something wrong, a(n) new Issue/Disscusion is welcome.

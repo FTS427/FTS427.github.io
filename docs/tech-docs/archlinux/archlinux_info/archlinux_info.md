@@ -40,19 +40,17 @@ Arch Linux 在众多 Linux 发行版中是少有的需要用户手动安装的�
 
 ### 主要面对的开发者
 
-拿 Arch Linux 当作开发环境是可行的，因为本小站的内容就是在 Arch Linux 上创建和编写的，所以，请不要相信 `滚动发行版不适用于开发` 的谎言
-
-当然，面对使用众多的语言开发者，她也是有不支持的对象，如 Python 开发者，Pypi(pip) 对于 Arch Linux 的妥协性和复杂繁琐性足以让您止步。所以，我不建议 Python 的开发者们选择 Arch Linux；若是您觉得您有这个勇气可以克服这些困难，您可以试试，祝您挑战成功勇士！
+拿 Arch Linux 当作开发环境是可行的，因为本小站的内容就是在 Arch Linux 上创建和编写的，所以，请理性看待 `滚动发行版不适用于开发` 这种评论
 
 ## 杂项
 
 ### 生日
 
-对，Arch Linux 怎么可以不过生日？她的生日在每年的3月11日，希望你记得每年给她过生日
+对，Arch Linux 怎么可以不过生日？她的生日在每年的 3 月 11 日，希望你记得每年给她过生日 🎂
 
 ### 拟人化
 
-![Arch Linux 酱](../../assets/archlinux_look.webp)
+![Arch Linux 酱](archlinux_chan.webp)
 
 > 图片来源 Pixiv Ravimo 大大的 101776734
 

@@ -1,6 +1,6 @@
 # Welcome to Huang FTS427's website
 
-这里是 Huang FTS427 的小站，这里记录了我的 Minecraft 服务器 `ZH-Server` ，和我的一些技术性文档以及一些小记
+这里是 Huang FTS427 的小站，这里记录了我的 Minecraft 服务器的一些信息，和我的一些技术性文档以及一些小记
 
 如果您发现某处有些问题或者不理解，可以向本仓库的 [`Issues`](https://github.com/FTS427/FTS427.github.io/issues) 或 [`Discussion`](https://github.com/FTS427/FTS427.github.io/discussions) 中提出您的疑惑；当然上交 [`PR`](https://github.com/FTS427/FTS427.github.io/pulls) 对文档进行修正也是欢迎的
 

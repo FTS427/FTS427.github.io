@@ -4,7 +4,7 @@
 
 如果你是一个开 基岩版 服务器很久的服主，你多多少少会听说过一个神奇的东西———— LiteLoaderBDS ，这是一个可以让你的服务器 绚丽多彩、玩法丰富、禁止作弊 的插件加载器，安装仅仅需要把对应版本号的一些 DLL 和一个 PeEditor 放在 BDS 根目录里，之后注入一下即可
 
-但是随着 LiteLoaderBDS 的不断发展，为了提升性能和做到模块化， LiteLoaderBDS 更名为 LeviLamina 开始重新发展
+但是随着 LiteLoaderBDS 的不断发展，为了提升性能和做到模块化，LiteLoaderBDS 更名为 LeviLamina 开始重新发展
 
 可是，新的 LeviLamina 安装方法看起来令人困扰，所以有了这个 个人 项目———— LL_Easier
 
@@ -14,13 +14,13 @@
 
 ### 使用模板
 
-首先以[此仓库](https://github.com/FTS427/ll_easier)为模板在您 Github 的帐户下建立一个新仓库
+首先以 [此仓库](https://github.com/FTS427/ll_easier) 为模板在您 Github 的帐户下建立一个新仓库
 
-![temp](../../assets/tech/ll_e_temp.png)
+![create from template](repo_from_template.webp)
 
 选择 `Create a new repository`
 
-![add info](../../assets/tech/ll_e_info.png)
+![add info](add_repo_info.webp)
 
 填写一下相关信息，然后点击 `Create repository`
 
@@ -30,15 +30,15 @@
 
 打开 `Action` 页面
 
-![open action](../../assets/tech/ll_e_action.png)
+![open action](action_view.webp)
 
 点击右侧的 `Pack LeviLamina`
 
-![action select](../../assets/tech/ll_e_action_select.png)
+![action select](action_select.webp)
 
 点击 `Run workflow` 填入你需要的 LeviLamina 版本号，以及按照个人需求填写其他内容
 
-![run workflow](../../assets/tech/ll_e_run.png)
+![run workflow](action_run.webp)
 
 填写好后，点击绿色的 `Run workflow` 按钮，再等个一杯白开水的功夫你就可以去 `Releases` 里找到期待中的 `ll_ll版本号_ll所需bds版本号.zip` 啦！
 
@@ -46,7 +46,7 @@
 
 在创建仓库时注意要选择 包含所有分支 选项
 
-之后把分支切换为 auto 分支，找到 `auto_pack_config.json` 文件，打开，进行编辑，最后保存， Git Action 会自动打包
+之后把分支切换为 auto 分支，找到 `auto_pack_config.json` 文件，打开，进行编辑，最后保存，Git Action 会自动打包
 
 #### auto_pack_config.json 解释
 
@@ -69,9 +69,9 @@
 ??? question "官方网站中的 BDS 版本和打包出来的需求版本不一致怎么办"
     如果发现版本在官方界面下载的与 Git Action 已经打包好的所需版本不一致，可以前往 [Minecraft Wiki](https://zh.minecraft.wiki/) 中查找所需版本，下载 BDS，~~或者修改官网下载链接对应的版本号~~
 
-    格式: `https://minecraft.azureedge.net/bin-win/bedrock-server-版本.zip`
-    
-    举个栗子: `https://minecraft.azureedge.net/bin-win/bedrock-server-1.21.20.03.zip`
+    格式: https://minecraft.azureedge.net/bin-win/bedrock-server-版本.zip
+
+    栗子: `https://minecraft.azureedge.net/bin-win/bedrock-server-1.21.20.03.zip`
 
 将下载好的 BDS 压缩文件解压在一个用于存储服务器文件的安全位置（以下简称 `BDS 根目录` ）
 
@@ -133,10 +133,6 @@ lip install -y 包的url
 !!!note "请注意，LL 和 LSE 的问题请不要投递到这里"
 
 什么？你说从 `Releases` 中下载更慢？可以用一些镜像站嘛～
-
-[镜像站1](https://moeyy.cn/gh-proxy)
-
-[镜像站2](https://gh.lldc.top)
 
 当然，你如果想把这个项目运用到你的 个人/社团/企业 项目中，这也是被许可的；不过，我请您严格遵守此项目的开源协议！
 
