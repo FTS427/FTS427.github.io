@@ -63,7 +63,7 @@ Xbox ID: Huang_FTS427
 
 备用开发系统: Windows 10 Professional Workstation
 
-桌面环境: Hyprland
+桌面环境: River
 
 CPU: AMD Ryzen 5 7600 (12) @ 5.13 GHz
 
