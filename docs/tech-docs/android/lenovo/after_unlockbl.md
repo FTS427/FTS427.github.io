@@ -1,6 +1,6 @@
 # 解锁 BL 后干点啥
 
-> 在您阅读本文章之前，务必阅读 [*如何解锁BL*](./unlock_bl.md) 后操作
+> 在您阅读本文章之前，务必阅读 [*如何解锁 BL*](./unlock_bl.md) 后操作
 
 ## 刷入 `Magisk` 获取 Root 权限
 
@@ -18,10 +18,10 @@
    adb reboot bootloader
    ```
 
-4. 刷入打包好的boot文件
+4. 刷入打包好的 boot 文件
 
     ```zsh
-    fastboot flash boot 打包好的boot文件路径
+    fastboot flash boot 打包好的 boot 文件路径
     ```
 
     !!! danger "警告"
@@ -94,7 +94,7 @@
     exit
     ```
 
-    使用 adb 拉取
+    使用 ADB 拉取
 
     ```zsh
     adb pull 分区镜像文件绝对路径 ./

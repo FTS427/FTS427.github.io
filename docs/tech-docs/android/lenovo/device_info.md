@@ -5,9 +5,9 @@
 - Device name: Lenovo Tab M10 HD (amar_prc_wifi_com)
 - Device id: TB-X306FC_PRC
 - CPU: MTK MT8768WT ( MTK Helio P22t )
-- ROM: 64GB
-- RAM: 4GB
-- Swap: 0GB
+- ROM: 64 GiB
+- RAM: 4 GiB
+- Swap: 0 GB
 - Basic System: Android 11
 - Dolby: support
 - GSI: support

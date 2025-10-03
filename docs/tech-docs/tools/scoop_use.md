@@ -4,7 +4,7 @@
 
 所谓 `包管理器`，是一种统一性强的安装、卸载、控制型的工具，几乎所有的类 Unix 发行版都拥有自己的包管理器，例如 `Arch Linux` 酱的“吃豆人”( `pacman` )
 
-但是早期的 Windows(8.1, 8, 7, XP) 没有类似的工具(Windows10 后期引入了 `winget` 的官方包管理器)，用户只能在犹如茫茫大海的互联网上自己搜寻零散的软件，这很麻烦，所有有了 `scoop` (中文译为“勺”)
+但是早期的 Windows(8.1, 8, 7, XP) 没有类似的工具(Windows 10 后期引入了 `winget` 的官方包管理器)，用户只能在犹如茫茫大海的互联网上自己搜寻零散的软件，这很麻烦，所有有了 `scoop` (中文译为“勺”)
 
 ## 安装
 
@@ -12,7 +12,7 @@
 
 > 链接：[*如何安装 PowerShell*](https://learn.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4)
 
-请先以 `Administrator` 身份打开PowerShell，键入以下命令确保 PowerShell 拥有远程权限
+请先以 `Administrator` 身份打开 PowerShell，键入以下命令确保 PowerShell 拥有远程权限
 
 ```powershell
     Set-ExecutionPolicy RemoteSigned -scope CurrentUser

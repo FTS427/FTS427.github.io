@@ -1,6 +1,6 @@
 # Zn Server
 
-Zn-Server -- 一个互通的 Mineacrft 生存服务器
+Zn-Server -- 一个互通的 Minecraft 生存服务器
 
 ## `Zn` 代表什么？
 

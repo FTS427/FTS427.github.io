@@ -9,6 +9,6 @@
 - Device id: A31t
 - CPU: msm8916
 - 存储空间: 16GB
-- Ram: 1GB
+- Ram: 1GiB
 - Swap: unknown
 - System: Android 4.4 ColorOS 2.0

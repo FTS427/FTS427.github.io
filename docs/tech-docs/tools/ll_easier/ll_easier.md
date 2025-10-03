@@ -1,4 +1,4 @@
-# LL_Easier -- 一个让安装 LeviLamina 更简单轻松的 Git Action
+# LL_Easier -- 一个让安装 LeviLamina 更简单轻松的 GitHub Action
 
 ## 引入
 
@@ -46,7 +46,7 @@
 
 在创建仓库时注意要选择 包含所有分支 选项
 
-之后把分支切换为 auto 分支，找到 `auto_pack_config.json` 文件，打开，进行编辑，最后保存，Git Action 会自动打包
+之后把分支切换为 auto 分支，找到 `auto_pack_config.json` 文件，打开，进行编辑，最后保存，GitHub Action 会自动打包
 
 #### auto_pack_config.json 解释
 
@@ -67,7 +67,7 @@
 先前往 [这里](https://www.minecraft.net/zh-hans/download/server/bedrock) 下载 所需版本 的 BDS 压缩包
 
 ??? question "官方网站中的 BDS 版本和打包出来的需求版本不一致怎么办"
-    如果发现版本在官方界面下载的与 Git Action 已经打包好的所需版本不一致，可以前往 [Minecraft Wiki](https://zh.minecraft.wiki/) 中查找所需版本，下载 BDS，~~或者修改官网下载链接对应的版本号~~
+    如果发现版本在官方界面下载的与 GitHub Action 已经打包好的所需版本不一致，可以前往 [Minecraft Wiki](https://zh.minecraft.wiki/) 中查找所需版本，下载 BDS，~~或者修改官网下载链接对应的版本号~~
 
     格式: https://minecraft.azureedge.net/bin-win/bedrock-server-版本.zip
 
@@ -77,7 +77,7 @@
 
 然后将 `Releases` 的压缩包文件解压在任意一个地方，然后将解压出的 `ll` 字样文件夹里的东西全部移动至 `BDS 根目录`
 
-如果之前没有安装 msvc2015 运行库，请先安装运行库，本项目支持打包运行库安装程序进入压缩包
+如果之前没有安装 MSVC2015 运行库，请先安装运行库，本项目支持打包运行库安装程序进入压缩包
 
 在确保 BDS 版本和 LL 版本匹配的情况下双击运行 `PeEditor.exe` ，等待 `LeviLamina` 注入完成
 
@@ -120,7 +120,7 @@ lip install -y 包的url
 
 ## 工作原理
 
-在 Git Action 的服务器上先安装 lip ，之后利用 Git Action 的服务器 “网速快” 的 “特性”，用 lip 安装 LeviLamina 之类，安装完成后再将其文件压缩并扔在 `Releases` 中
+在 GitHub Action 的服务器上先安装 lip ，之后利用 GitHub Action 的服务器 “网速快” 的 “特性”，用 lip 安装 LeviLamina 之类，安装完成后再将其文件压缩并扔在 `Releases` 中
 
 ## 已知的问题
 
@@ -140,6 +140,6 @@ lip install -y 包的url
 
 很感谢 [Litezero](https://github.com/Litezero) 大佬贡献的 auto 自动更新版本 & 检测对应 BDS 版本功能！
 
-很感谢 CaSilicate 大佬提供的 py 脚本进行检测 BDS 版本
+很感谢 CaSilicate 大佬提供的 Python 脚本进行检测 BDS 版本
 
 很感谢 [n15421](https://github.com/xzfg-n15421) 对项目进行优化
