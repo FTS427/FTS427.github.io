@@ -69,11 +69,11 @@ CPU: AMD Ryzen 5 7600 (12) @ 5.13 GHz
 
 运存: 32GB Kingston
 
-Swap: 64GB
+Swap: 64GiB <!-- 内存单位为 GiB，不是 GB -->
 
-硬盘: 2TB Lexar
+硬盘: 2TB Lexar <!-- 容量单位没问题，TB不是TiB -->
 
-显示器: AOC 1920 x 1080
+显示器: AOC 1920x1080 <!-- 分辨率的乘号之间无需空格 -->
 
 ### 移动设备
 
@@ -83,7 +83,7 @@ OS: Lineage OS 20 Unofficial Build(Android 13)
 
 CPU: MTK MT8768WT
 
-运存: 4GB
+运存: 4GiB <!-- 同样的问题 -->
 
 存储空间: 64GB
 
@@ -91,13 +91,13 @@ Swap: 3GB
 
 ## 我的项目
 
-[ll_easier](https://github.com/ZH-Server/ll_easier) 用于迅速打包 LeviLamina 的 GitAction
+[ll_easier](https://github.com/ZH-Server/ll_easier) 用于迅速打包 LeviLamina 的 GitHub Action
 
 [QuantumLS-Studio](https://github.com/QuantumLS-Studio) 我的工作室，欢迎加入！
 
 [ZH-Server Open Source Project](https://github.com/ZH-Server) ZH-Server 开源组织
 
-[Luohe Senior School](https://github.com/Luohe-Senior-School) 非官方漯河高中的 Github 开源组织
+[Luohe Senior School](https://github.com/Luohe-Senior-School) 非官方漯河高中的 GitHub 开源组织
 
 ## 梦想
 

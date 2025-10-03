@@ -29,7 +29,7 @@
 
 ### waydroid_script
 
-我们接下来将会需要用到 casualsnek 大佬编写的一个 py 脚本对 waydroid 进行一些调整
+我们接下来将会需要用到 casualsnek 大佬编写的一个 Python 脚本对 waydroid 进行一些调整
 
 [项目地址](https://github.com/casualsnek/waydroid_script)
 
