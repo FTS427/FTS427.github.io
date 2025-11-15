@@ -69,11 +69,11 @@ CPU: AMD Ryzen 5 7600 (12) @ 5.13 GHz
 
 运存: 32GB Kingston
 
-Swap: 64GiB <!-- 内存单位为 GiB，不是 GB -->
+Swap: 64GiB
 
-硬盘: 2TB Lexar <!-- 容量单位没问题，TB不是TiB -->
+硬盘: 2TB Lexar
 
-显示器: AOC 1920x1080 <!-- 分辨率的乘号之间无需空格 -->
+显示器: AOC 1920x1080
 
 ### 移动设备
 
@@ -83,7 +83,7 @@ OS: Lineage OS 20 Unofficial Build(Android 13)
 
 CPU: MTK MT8768WT
 
-运存: 4GiB <!-- 同样的问题 -->
+运存: 4GiB
 
 存储空间: 64GB
 
