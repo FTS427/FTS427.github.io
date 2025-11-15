@@ -50,7 +50,6 @@ theme:
 plugins:
   - search
   - tags
-  - git-authors
   - glightbox
   - blog:
       authors_file: "{blog}/.authors.yml"
