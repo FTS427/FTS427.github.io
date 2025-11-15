@@ -47,13 +47,6 @@ theme:
         icon: material/weather-night
         name: Light mode
 
-plugins:
-  - search
-  - tags
-  - git-authors
-  - glightbox
-  - blog:
-      authors_file: "{blog}/.authors.yml"
 
 extra_css:
   - stylesheets/custom.css
@@ -84,25 +77,6 @@ markdown_extensions:
   - toc:
       permalink: true
   - footnotes
-  - pymdownx.betterem
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.inlinehilite
-  - pymdownx.mark
-  - pymdownx.keys
-  - pymdownx.smartsymbols
-  - pymdownx.superfences
-  - pymdownx.tilde
-  - pymdownx.highlight:
-      anchor_linenums: true
-      auto_title: true
-      linenums: true
-      line_spans: __span
-      pygments_lang_class: true
-  - pymdownx.snippets
-  - pymdownx.tasklist:
-      custom_checkbox: true
 
 nav:
   - 欢迎！: index.md

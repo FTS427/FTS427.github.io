@@ -18,6 +18,8 @@ comments: true
 
 [MM喵了个 的高中笔记站](https://clsnte.top/)
 
+[CaSilicate 的数字花园](https://mediawiki.casilicate.org)
+
 ## 朋友们的小站
 
 [漯河高中非官方网站](https://Luohe-Senior-School.github.io/)
