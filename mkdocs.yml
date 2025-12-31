@@ -7,7 +7,7 @@ site_author: Huang FTS427
 repo_url: https://github.com/FTS427/FTS427.github.io
 repo_name: FTS427/FTS427.github.io
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2022 - 2025 Huang FTS427
+copyright: Copyright &copy; 2022 - 2026 Huang FTS427
 theme:
   custom_dir: overrides
   name: material
@@ -123,7 +123,7 @@ nav:
       - Archlinux 相关:
           - Archlinux 酱: tech-docs/archlinux/archlinux_info/archlinux_info.md
           - Archlinux 安装: tech-docs/archlinux/archlinux_install.md
-      - Android相关:
+      - Android 相关:
           - 前言: tech-docs/android/index.md
           - Lenovo TB-X306FC_PRC:
               - 设备信息: tech-docs/android/lenovo/device_info.md
