@@ -4,15 +4,13 @@
 
 ## 目前的 OP 有谁？
 
-Huang_FTS427, ZTT2008917(ZTT20080917), CaSilicate
+Huang_FTS427、ZTT2008917(ZTT20080917)、CaSilicate
 
 ## OP 们可以干什么？
 
-**所有管理员在执行任何命令时请先告知 Huang_FTS427!**
+**所有管理员在执行任何命令时请先告知 Huang_FTS427！**
 
-因为服务器的 `allow-cheats` 值为 `false` ，所以 OP 的权限并没有什么用
-
-### 如果 `allow-cheats` 值为 `true` ，OP 们可以干什么？（虽然我们不期待这样）
+### OP 们可以使用命令干什么？
 
 - 使用命令恶意 击杀/生成 实体/玩家：false （当有**极端Bug生物**、恶意玩家时，可以为 `true` ）
 - 使用命令胡乱 添加/清除 自己/他人 的 Buff：false

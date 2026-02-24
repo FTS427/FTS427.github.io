@@ -41,8 +41,6 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 - 存档序号：V
 - 插件加载器：Endstone v0.6.2
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="170px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=server.fts427.top&port=19132&dark=true&join_open=true"></iframe>
-
 本服务器为公益服，无收费内容
 
 !!! warning "请注意"
