@@ -1,19 +1,19 @@
 site_name: Huang FTS427's Website
 site_url: https://www.fts427.top/
 site_description: >-
-  This is Huang FTS427's website, 
-  which record my Minecraft server, technological documents and my daily life.
+  This is Huang FTS427's website,
+  which records my Minecraft server status, technological documents and my daily life.
 site_author: Huang FTS427
 repo_url: https://github.com/FTS427/FTS427.github.io
 repo_name: FTS427/FTS427.github.io
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2022 - 2026 Huang FTS427
+copyright: Copyright &copy; 2022 - 2026 Huang FTS427. This work is openly licensed via [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
 theme:
   custom_dir: overrides
   name: material
   language: zh
   font:
-    code: false
+    code: true
   features:
     - content.action.edit
     - content.code.annotate
@@ -61,7 +61,7 @@ extra_css:
 
 extra:
   icp: 萌ICP备20250427号
-  
+
   social:
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/HuangFts427
@@ -113,7 +113,6 @@ nav:
       - 服务器贡献人员: Minecraft/gaming_thx.md
       - 游戏环境基础原则: Minecraft/gamimg_env.md
       - 管理员注意事项: Minecraft/op_rules.md
-      - ZH-Server 资源: Minecraft/ZHS_resource.md
       - 游戏黑名单: Minecraft/no_play.md
   - 友链: links.md
   - 小记:
