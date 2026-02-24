@@ -36,7 +36,7 @@ comments: true
 
 ## 其它有趣的项目
 
-[AL-1S（](https://alan-shangmike.github.io/Sping_Aris_github.io/)
+[AL-1S 小网站](https://alan-shangmike.github.io/Sping_Aris_github.io/)
 
 [`BA` Logo生成器](https://tmp.nulla.top/ba-logo/)
 

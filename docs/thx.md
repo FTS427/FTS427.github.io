@@ -2,7 +2,7 @@
 
 ## 感谢我的朋友们
 
-CaSilicate 提供了本小站的域名，并对本文档加以改进
+[CaSilicate](https://github.com/CaSilicate-dev) 提供了本小站的域名，并对本文档加以改进
 
 [n15421](https://github.com/xzfg-n15421) 对 [LL Easier](tech-docs/tools/ll_easier/ll_easier.md) 文档进行优化和改进
 
@@ -14,6 +14,6 @@ CaSilicate 提供了本小站的域名，并对本文档加以改进
 
 [MCBS-Server-Motd](https://github.com/BlackBEDevelopment/MCBE-Server-Motd) 展示 `Minecraft` 服务器状况
 
-[Gitalk](https://github.com/gitalk/gitalk) 使用 `Git Issues` 评论系统 (已弃用)
+[Gitalk](https://github.com/gitalk/gitalk) 使用 `Git Issues` 评论系统（已弃用）
 
 [Gitcus](https://github.com/apps/giscus) 使用 `Git Discussion` 评论系统
