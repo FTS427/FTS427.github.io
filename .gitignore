@@ -1,4 +1,8 @@
-.vscode
-site
-*.sh
-.venv
+*
+!.gitignore
+
+!LICENSE
+!README.md
+!docs
+!mkdocs.yml
+!overrides
