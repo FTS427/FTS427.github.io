@@ -2,6 +2,6 @@
 !.gitignore
 
 !README.md
-!docs
+!docs/*
 !mkdocs.yml
 !overrides
