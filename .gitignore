@@ -6,3 +6,4 @@
 !docs/**
 !mkdocs.yml
 !overrides
+!overrides/**
