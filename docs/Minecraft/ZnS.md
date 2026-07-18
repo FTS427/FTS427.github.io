@@ -31,7 +31,7 @@ Zn-Server ———— 一个互通的 Minecraft 生存服务器
 
 腐竹：Huang_FTS427、ZTT2008917(ZTT20080917)
 
-管理：Huang_FTS427、ZTT2008917(ZTT20080917)、CaSilicate
+管理：Huang_FTS427、ZTT2008917(ZTT20080917)
 
 ## 本服保证绝不会出现以下内容
 

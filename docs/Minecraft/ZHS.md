@@ -50,25 +50,13 @@ ZH-Server 是一个公益的生存服务器，也是一个以玩家为中心、�
 
 > 我们希望看到更多玩家将自己拍摄的景象展示在这里
 
-漂亮的基地
-
-![base](https://github.com/ZH-Server/Gallery/blob/master/ZHS/VII/base.png)
-
-![base2](https://github.com/ZH-Server/Gallery/blob/master/ZHS/VII/base2.png)
-
-农场
-
-![farm](https://github.com/ZH-Server/Gallery/blob/master/ZHS/VII/farm.png)
-
-> 以上风景摄影师： SYSTEMGirl8609(CaSilicate) ，在此非常感谢您的帮助
-
 ## 🧐腐竹&管理名单
 
 > 以下名称均为游戏内名称
 
 腐竹：Huang_FTS427,  ZTT2008917(ZTT20080917)
 
-管理：Huang_FTS427,  ZTT2008917(ZTT20080917),  SYSTEMGirl8609(CaSilicate)
+管理：Huang_FTS427,  ZTT2008917(ZTT20080917)
 
 ## 本服保证绝不会出现以下内容
 
