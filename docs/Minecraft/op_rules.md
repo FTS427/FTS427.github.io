@@ -4,7 +4,7 @@
 
 ## 目前的 OP 有谁？
 
-Huang_FTS427、ZTT2008917(ZTT20080917)、CaSilicate
+Huang_FTS427、ZTT2008917(ZTT20080917)
 
 ## OP 们可以干什么？
 
