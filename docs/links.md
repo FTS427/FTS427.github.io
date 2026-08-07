@@ -44,4 +44,4 @@ comments: true
 
 ## 更多
 
-[sysytemdirect 的小站](https://about.sysytemdirect.top)
+[sysytemdirect 的小站](https://www.sysytemdirect.top:8999)
