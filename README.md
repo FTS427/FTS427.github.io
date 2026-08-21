@@ -1,3 +1,5 @@
+# MOVE TO https://codeberg.org/FTS427/pages
+
 # Huang FTS427's website
 
 This is the repository of `Huang FTS427's website`, which records my Minecraft server, technological documents and my daily life.
